@@ -1,5 +1,6 @@
 <!-- Update the path to your image if needed -->
-<img src="IMG_20210523_144811.jpg" alt="Ganga Vamsik Sanipinidi" width="150" align="right"/>
+<img src="/Data-Science-Journey/assets
+/img/IMG_20210523_144811.jpg" alt="Ganga Vamsik Sanipinidi" width="150" align="right"/>
 
 # Ganga Vamsik Sanipinidi
 
