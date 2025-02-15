@@ -10,6 +10,12 @@ Hartford, Connecticut, USA
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/YourUsername)
 [![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-orange)](mailto:gvsanipinidi@example.com)
 
+## Explore My Portfolio
+
+- [About Me](/about/)
+- [Projects](/projects/)
+- [Blog Posts](/blogs/)
+
 ---
 
 ## Table of Contents
