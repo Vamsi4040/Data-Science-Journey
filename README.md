@@ -12,8 +12,8 @@ Hartford, Connecticut, USA
 
 ## Explore My Portfolio
 
-- [About Me](/about/)
-- [Projects](/projects/)
+- [About Me](/Data-Science-Journey/about/)
+- [Projects](/Data-Science-Journey/projects/)
 - [Blooog Posts](/Data-Science-Journey/blogs/)
 
 ---
