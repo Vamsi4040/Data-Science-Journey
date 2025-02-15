@@ -14,7 +14,7 @@ Hartford, Connecticut, USA
 
 - [About Me](/about/)
 - [Projects](/projects/)
-- [Blog Posts](/Data-Science-Journey/blogs/)
+- [Blooog Posts](/Data-Science-Journey/blogs/)
 
 ---
 
