@@ -6,12 +6,13 @@ permalink: /blogs/
 
 # Blog Posts
 
-{% if site.posts.size > 0 %}
+<h1>Blog Posts</h1>
+<ul>
   {% for post in site.posts %}
-  - [{{ post.title }}]({{ post.url }})  
-    <small>Published on {{ post.date | date: "%B %d, %Y" }}</small>
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> - <small>{{ post.date | date: "%B %d, %Y" }}</small>
+    </li>
   {% endfor %}
-{% else %}
-  No blog posts found.
-{% endif %}
+</ul>
+
 
