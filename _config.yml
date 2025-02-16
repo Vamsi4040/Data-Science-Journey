@@ -1,6 +1,8 @@
 title: "Ganga Vamsik Sanipinidi Portfolio"
 description: "Data Scientist | Predictive Analytics | Machine Learning"
 remote_theme: pages-themes/hacker@v0.2.0
+url: "https://vamsi4040.github.io"
+baseurl: "/Data-Science-Journey"
 
 nav:
   - title: "About Me"
