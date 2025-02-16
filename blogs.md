@@ -1,16 +1,10 @@
 ---
 layout: default
-title: "Blog Posts"
+title: "Blogs"
 permalink: /blogs/
 ---
 
 # Blog Posts
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <small> - {{ post.date | date: "%B %d, %Y" }}</small>
-    </li>
-  {% endfor %}
-</ul>
+- [Are Nutrition Facts Accurate?](/blogs/2025/02/03/are-nutrition-facts-accurate/) - Published on February 03, 2025
+- [The Protein Debate](/blogs/2025/02/15/the-protein-debate/) - Published on February 15, 2025
