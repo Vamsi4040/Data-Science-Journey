@@ -8,7 +8,7 @@ permalink: /blogs/
 
 <ul style="list-style: none; padding: 0;">
   <li style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/assets/Gemini_Generated_Image_7r3nq67r3nq67r3n.jpg" alt="Nutrition Facts" style="width: 100px; height: auto; margin-right: 20px;">
+    <img src="/assets/Gemini_Generated_Image_7r3nq67r3nq67r3n.jpg" alt="Nutrition Facts" style="width: 10px; height: auto; margin-right: 20px;">
     <div>
       <h2 style="margin: 0;">
         <a href="/_posts/2025-02-03-are-nutrition-facts-accurate.md/">Are Nutrition Facts Accurate?</a>
