@@ -1,36 +1,50 @@
 ---
 ---
 
-@import "{{ site.theme }}";  
+@import "{{ site.theme }}";
 
-/* Float the nav to the right */
-#main-nav {
-  float: right; 
+/* Flex container for header */
+.header-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap; /* Allows wrapping on smaller screens */
 }
 
-/* Remove default bullet styles and spacing from the list */
+/* Left Section: Profile Info & Social Links */
+.header-left {
+  flex: 1;
+}
+
+.header-left .profile-info {
+  font-size: 1.2em;
+  margin-bottom: 0.5rem;
+}
+
+.header-left .social-links a {
+  margin-right: 0.5rem;
+}
+
+/* Right Section: Title, Tagline & Navigation */
+.header-right {
+  flex: 1;
+  text-align: right;
+}
+
+/* Navigation Styling */
 #main-nav ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-/* Display the list items side by side */
 #main-nav ul li {
   display: inline-block;
-  margin-left: 1rem; /* Add some spacing between links */
+  margin-left: 1rem;
 }
 
-/* Optional: style the links */
 #main-nav ul li a {
   text-decoration: none;
-  color: inherit; /* Or pick your own color */
+  color: inherit;
   font-weight: bold;
-}
-
-/* Make sure header container doesn't collapse around floated nav */
-header .container::after {
-  content: "";
-  display: block;
-  clear: both;
 }
