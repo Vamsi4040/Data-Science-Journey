@@ -2,3 +2,35 @@
 ---
 
 @import "{{ site.theme }}";  
+
+/* Float the nav to the right */
+#main-nav {
+  float: right; 
+}
+
+/* Remove default bullet styles and spacing from the list */
+#main-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Display the list items side by side */
+#main-nav ul li {
+  display: inline-block;
+  margin-left: 1rem; /* Add some spacing between links */
+}
+
+/* Optional: style the links */
+#main-nav ul li a {
+  text-decoration: none;
+  color: inherit; /* Or pick your own color */
+  font-weight: bold;
+}
+
+/* Make sure header container doesn't collapse around floated nav */
+header .container::after {
+  content: "";
+  display: block;
+  clear: both;
+}
