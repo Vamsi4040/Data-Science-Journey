@@ -1,8 +1,3 @@
-<!-- Update the path to your image if needed -->
-<img src="/assets
-/img/IMG_20210523_144811.jpg" alt="Ganga Vamsik Sanipinidi" width="150" align="right"/>
-
-# Ganga Vamsik Sanipinidi
 
 **Data Scientist**  
 Hartford, Connecticut, USA
