@@ -4,14 +4,8 @@ remote_theme: pages-themes/hacker@v0.2.0
 url: "https://vamsi4040.github.io"
 baseurl: "/Data-Science-Journey"
 header_pages:
-  - about.md
-  - projects.md
-  - blog.md
-
-
-nav:
   - title: "About Me"
-    url: /about/
+    URL: /about/
   - title: "Projects"
     url: /projects/
   - title: "Blogs"
