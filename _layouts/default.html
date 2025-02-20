@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -11,40 +11,42 @@
 
   <body>
     <header>
-      <div class="container header-flex">
-        <!-- Left Section: Profile Info & Social Links -->
-        <div class="header-left">
-          <div class="profile-info">
-            <strong>Data Scientist</strong><br>
-            Hartford, Connecticut, USA
-          </div>
-          <div class="social-links">
-            <a href="https://www.linkedin.com/in/sgvamsik/">
-              <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge">
-            </a>
-            <a href="https://github.com/Vamsi4040">
-              <img src="https://img.shields.io/badge/GitHub-Follow-lightgrey" alt="GitHub Badge">
-            </a>
-            <a href="mailto:contacttovamsi@gmail.com">
-              <img src="https://img.shields.io/badge/Email-Contact%20Me-orange" alt="Email Badge">
-            </a>
-          </div>
-        </div>
-
-        <!-- Right Section: Title, Tagline & Navigation -->
-        <div class="header-right">
+      <div class="container">
+        <!-- Top Part: Name & Description -->
+        <div class="header-top">
           <a id="a-title" href="{{ '/' | relative_url }}">
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
           </a>
           <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-          <nav id="main-nav">
-            <ul>
-              <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-              <li><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
-              <li><a href="{{ '/blogs/' | relative_url }}">Blogs</a></li>
-              <li><a href="{{ '/resume/' | relative_url }}">Resume</a></li>
-            </ul>
-          </nav>
+        </div>
+
+        <!-- Bottom Part: Social Links (Left) & Nav Links (Right) -->
+        <div class="header-bottom header-flex">
+          <!-- Left: Social/Email Links -->
+          <div class="header-left social-links">
+            <!-- Example badges; update with your actual links -->
+            <a href="https://www.linkedin.com/in/YourLinkedInProfile">
+              <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge">
+            </a>
+            <a href="https://github.com/YourUsername">
+              <img src="https://img.shields.io/badge/GitHub-Follow-lightgrey" alt="GitHub Badge">
+            </a>
+            <a href="mailto:gvsanipinidi@example.com">
+              <img src="https://img.shields.io/badge/Email-Contact%20Me-orange" alt="Email Badge">
+            </a>
+          </div>
+
+          <!-- Right: Navigation Links -->
+          <div class="header-right">
+            <nav id="main-nav">
+              <ul>
+                <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+                <li><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
+                <li><a href="{{ '/blogs/' | relative_url }}">Blogs</a></li>
+                <li><a href="{{ '/resume/' | relative_url }}">Resume</a></li>
+              </ul>
+            </nav>
+          </div>
         </div>
       </div>
     </header>
