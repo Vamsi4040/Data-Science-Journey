@@ -1,10 +1,4 @@
 
-## Explore My Portfolio
-
-- [About Me](/Data-Science-Journey/about/)
-- [Projects](/Data-Science-Journey/projects/)
-- [Blog Posts](/Data-Science-Journey/blogs/)
-
 ---
 
 ## Table of Contents
