@@ -1,11 +1,4 @@
 
-**Data Scientist**  
-Hartford, Connecticut, USA
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/YourLinkedInProfile)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/YourUsername)
-[![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-orange)](mailto:gvsanipinidi@example.com)
-
 ## Explore My Portfolio
 
 - [About Me](/Data-Science-Journey/about/)
