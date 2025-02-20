@@ -3,6 +3,11 @@ description: "architect of digital insight, rigorously transforming messy data i
 remote_theme: pages-themes/hacker@v0.2.0
 url: "https://vamsi4040.github.io"
 baseurl: "/Data-Science-Journey"
+header_pages:
+  - about.md
+  - projects.md
+  - blog.md
+
 
 nav:
   - title: "About Me"
@@ -11,3 +16,8 @@ nav:
     url: /projects/
   - title: "Blogs"
     url: /blogs/
+
+
+
+#theme: jekyll-theme-hacker
+
