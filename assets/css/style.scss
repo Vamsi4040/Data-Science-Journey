@@ -3,35 +3,25 @@
 
 @import "{{ site.theme }}";
 
-/* Flex container for header */
+/* Make a flex container for the 'third line' */
 .header-flex {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap; /* Allows wrapping on smaller screens */
+  justify-content: space-between; /* Space out left and right items */
+  align-items: center;           /* Vertically center them */
+  flex-wrap: wrap;               /* Allow wrapping on small screens */
 }
 
-/* Left Section: Profile Info & Social Links */
+/* Left section: social/email badges */
 .header-left {
-  flex: 1;
+  /* You can add custom styling if needed */
 }
 
-.header-left .profile-info {
-  font-size: 1.2em;
-  margin-bottom: 0.5rem;
-}
-
-.header-left .social-links a {
-  margin-right: 0.5rem;
-}
-
-/* Right Section: Title, Tagline & Navigation */
+/* Right section: nav links */
 .header-right {
-  flex: 1;
-  text-align: right;
+  /* text-align: right; Optional if you want to right-align text */
 }
 
-/* Navigation Styling */
+/* Navigation styling */
 #main-nav ul {
   list-style: none;
   margin: 0;
@@ -40,11 +30,11 @@
 
 #main-nav ul li {
   display: inline-block;
-  margin-left: 1rem;
+  margin-left: 1rem; /* Spacing between nav links */
 }
 
 #main-nav ul li a {
   text-decoration: none;
-  color: inherit;
+  color: inherit; /* Or pick a color you prefer */
   font-weight: bold;
 }
