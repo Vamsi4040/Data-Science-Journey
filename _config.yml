@@ -1,7 +1,7 @@
 title: "Ganga Vamsik Sanipinidi"
 description: "architect of digital insight, rigorously transforming messy data into strategic narratives while winking at the absurdity of the numbers I tame."
 remote_theme: pages-themes/hacker@v0.2.0
-url: "https://vamsi4040.github.io"
+#url: "https://vamsi4040.github.io"
 baseurl: "/Data-Science-Journey"
 
 nav:
