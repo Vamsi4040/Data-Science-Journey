@@ -41,40 +41,22 @@
 
 
 .project-card {
-  /* Use flex to place the image and text side by side */
   display: flex;
   align-items: center;
-  margin: 1rem 0; /* Space between each project card */
+  margin: 1rem 0;
 }
-
-/* Thumbnail styling */
 .project-thumbnail {
-  max-width: 150px;    /* Control thumbnail size */
-  border-radius: 4px;  /* Optional: round corners */
-  margin-right: 1rem;  /* Space between image and text */
+  max-width: 150px;
+  margin-right: 1rem;
+  border-radius: 4px;
 }
-
-/* Right-side content */
 .project-details {
-  flex: 1; /* Let the text side expand as needed */
+  flex: 1;
 }
-
-/* Title styling */
 .project-title {
-  font-size: 1.2rem;
   font-weight: bold;
-  text-decoration: none; /* Remove underline */
-  color: inherit;        /* Or choose a custom color */
+  text-decoration: none;
 }
-
-/* Change title appearance on hover (optional) */
 .project-title:hover {
   text-decoration: underline;
 }
-
-/* Description styling */
-.project-description {
-  margin-top: 0.5rem;
-  color: #bbb; /* Adjust color as you like */
-}
-
