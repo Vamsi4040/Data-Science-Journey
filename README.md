@@ -58,20 +58,29 @@ I am a **passionate data scientist** with a strong background in **predictive an
    - Improved mental health analysis through sentiment classification and real-time inference.
 
 
-  <div class="project-card">
-  <!-- Clickable Thumbnail -->
-  <a href="{{ '/each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/' | relative_url }}" target="_blank" rel="noopener noreferrer">
-    <img class="project-thumbnail" src="path/to/project-thumbnail.jpg" alt="Emotion Analysis Project Thumbnail">
+<div class="project-card">
+  <!-- Left: Image Thumbnail -->
+  <a href="https://github.com/YourUsername/YourRepo" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="path/to/project-thumbnail.jpg" 
+      alt="Emotion Analysis Project Thumbnail"
+      class="project-thumbnail" />
   </a>
-  
-  <!-- Project Details -->
+
+  <!-- Right: Title & Description -->
   <div class="project-details">
-    <!-- Clickable Title -->
-    <a class="project-title" href="{{ '/each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    <!-- Title (also a link) -->
+    <a 
+      href="https://github.com/YourUsername/YourRepo" 
+      target="_blank" 
+      rel="noopener noreferrer"
+      class="project-title"
+    >
       Emotion Analysis and Detection in Mental Health Using NLP Techniques
     </a>
     <p class="project-description">
-      A brief description of the project goes here.
+      A brief description of the project goes here. 
+      It can be one or two sentences summarizing your work.
     </p>
   </div>
 </div>
