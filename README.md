@@ -52,10 +52,7 @@ I am a **passionate data scientist** with a strong background in **predictive an
    - Implemented algorithms such as Logistic Regression, Random Forest, and XGBoost.  
    - Explored feature importance to highlight key indicators of insolvency risk.
 
-2. **Emotion Analysis in Mental Health (NLP)**  
-   - Designed and implemented an NLP-based system to detect depression from social media text.  
-   - Utilized models like CNN-LSTM, BERT, and DistilBERT to classify sentiments.  
-   - Improved mental health analysis through sentiment classification and real-time inference.
+
 
 
 <div class="project-card">
@@ -78,7 +75,10 @@ I am a **passionate data scientist** with a strong background in **predictive an
       Emotion Analysis and Detection in Mental Health Using NLP Techniques
     </a>
     <p class="project-description">
-      A brief description of the project goes here. 
+      **Emotion Analysis in Mental Health (NLP)**  
+   - Designed and implemented an NLP-based system to detect depression from social media text.  
+   - Utilized models like CNN-LSTM, BERT, and DistilBERT to classify sentiments.  
+   - Improved mental health analysis through sentiment classification and real-time inference.
     </p>
   </div>
 </div>
