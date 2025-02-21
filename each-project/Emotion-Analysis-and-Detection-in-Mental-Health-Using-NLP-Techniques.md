@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Emotion Analysis and Detection in Mental Health Using NLP Techniques"
+permalink: /each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/
+---
+
+
+
 # Emotion Analysis and Detection in Mental Health Using Natural Language Processing Techniques
 
 ## Abstract
