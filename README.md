@@ -59,31 +59,30 @@ I am a **passionate data scientist** with a strong background in **predictive an
 
 
 <div class="project-card">
-  <!-- Left: Image Thumbnail -->
-  <a href="https://github.com/YourUsername/YourRepo" target="_blank" rel="noopener noreferrer">
+  <!-- Clickable Thumbnail -->
+  <a href="{{ '/each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/' | relative_url }}">
     <img 
-      src="path/to/project-thumbnail.jpg" 
-      alt="Emotion Analysis Project Thumbnail"
-      class="project-thumbnail" />
+      class="project-thumbnail"
+      src="{{ '/assets/NLP.jpeg' | relative_url }}"
+      alt="NLP Image"
+    />
   </a>
 
-  <!-- Right: Title & Description -->
+  <!-- Project Details -->
   <div class="project-details">
-    <!-- Title (also a link) -->
+    <!-- Clickable Title -->
     <a 
-      href="https://github.com/YourUsername/YourRepo" 
-      target="_blank" 
-      rel="noopener noreferrer"
       class="project-title"
+      href="{{ '/each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/' | relative_url }}"
     >
       Emotion Analysis and Detection in Mental Health Using NLP Techniques
     </a>
     <p class="project-description">
       A brief description of the project goes here. 
-      It can be one or two sentences summarizing your work.
     </p>
   </div>
 </div>
+
 
 
 3. **Fake News Detection**  
