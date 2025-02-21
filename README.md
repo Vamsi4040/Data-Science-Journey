@@ -11,7 +11,7 @@
 - **Data Analysis:** Predictive Analytics, Statistical Analysis, Data Visualization  
 - **AI/ML:** Machine Learning Algorithms, Deep Learning, NLP
 
-<details>
+<details markdown="1">
 <summary>Tools & Badges</summary>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
