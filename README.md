@@ -57,6 +57,26 @@ I am a **passionate data scientist** with a strong background in **predictive an
    - Utilized models like CNN-LSTM, BERT, and DistilBERT to classify sentiments.  
    - Improved mental health analysis through sentiment classification and real-time inference.
 
+
+  <div class="project-card">
+  <!-- Clickable Thumbnail -->
+  <a href="{{ '/each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    <img class="project-thumbnail" src="path/to/project-thumbnail.jpg" alt="Emotion Analysis Project Thumbnail">
+  </a>
+  
+  <!-- Project Details -->
+  <div class="project-details">
+    <!-- Clickable Title -->
+    <a class="project-title" href="{{ '/each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      Emotion Analysis and Detection in Mental Health Using NLP Techniques
+    </a>
+    <p class="project-description">
+      A brief description of the project goes here.
+    </p>
+  </div>
+</div>
+
+
 3. **Fake News Detection**  
    - Built a deep learning-based fake news detection system using fine-tuned DistilBERT.  
    - Performed data preprocessing, model training, evaluation, and deployment via Gradio.  
