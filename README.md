@@ -1,20 +1,7 @@
 
----
 
-## Table of Contents
-1. [About Me](#about-me)
-2. [Skills](#skills)
-3. [Education](#education)
-4. [Projects](#projects)
-5. [Certifications](#certifications)
-6. [Experience](#experience)
-7. [Publications & Extracurriculars](#publications--extracurriculars)
-8. [Links](#links)
 
----
-
-## About Me
-I am a **passionate data scientist** with a strong background in **predictive analytics** and **statistical modeling**. I enjoy turning complex data into actionable insights and have hands-on experience building machine learning models to solve real-world problems. With a foundation in mechanical engineering and a Master’s in Data Science, I bring a unique analytical perspective to every project. I’m particularly interested in **NLP** for mental health and **deploying scalable AI solutions** on the cloud.
+## Summary
 
 ---
 
