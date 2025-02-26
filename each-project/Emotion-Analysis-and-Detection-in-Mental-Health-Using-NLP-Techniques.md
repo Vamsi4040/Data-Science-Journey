@@ -71,23 +71,55 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
 4. **Lemmatization:**  
    - Words are reduced to their root forms to ensure consistency and to manage vocabulary size.
 
-5. **Exploratory Data Analysis (EDA):**  
-   - **Emotion Distribution:** Visualization of the frequency of each emotion reveals that neutral, worry, and happiness are the most prevalent, while emotions such as anger, boredom, and enthusiasm appear less frequently.
+5. **Exploratory Data Analysis (EDA):**
 
-To understand the prevalence of each emotion in our dataset, we plotted the number of tweets associated with each emotion:
+- **Emotion Distribution:**  
+  <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+    <!-- Text Column -->
+    <div style="flex: 1; margin-right: 1rem;">
+      Visualization of the frequency of each emotion reveals that neutral, worry, and happiness 
+      are the most prevalent, while emotions such as anger, boredom, and enthusiasm appear less frequently.
+      <br><br>
+      To understand the prevalence of each emotion in our dataset, we plotted the number of tweets 
+      associated with each emotion.
+      <br><br>
+      *Figure 1: Bar chart illustrating the distribution of emotions in the dataset.*
+    </div>
+    <!-- Image Column -->
+    <div style="flex: 0;">
+      <img src="assets/emotion_distribution.png" alt="Emotion Distribution" width="300">
+    </div>
+  </div>
 
-![Emotion Distribution](assets/emotion_distribution.png)
+- **Word Cloud Generation:**  
+  <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+    <!-- Text Column -->
+    <div style="flex: 1; margin-right: 1rem;">
+      Word clouds illustrate the most common words and contextual themes in the dataset.
+      <br><br>
+      *Figure X: Word cloud illustrating the most common words in the dataset.*
+    </div>
+    <!-- Image Column -->
+    <div style="flex: 0;">
+      <img src="assets/word_cloud.png" alt="Word Cloud of Tweets" width="300">
+    </div>
+  </div>
 
-*Figure 1: Bar chart illustrating the distribution of emotions in the dataset.*
+- **Sentence Length Distribution:**  
+  <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+    <!-- Text Column -->
+    <div style="flex: 1; margin-right: 1rem;">
+      Histograms of sentence lengths show a right-skewed distribution, indicating that most 
+      sentences are short and concise—a characteristic common in online communications.
+      <br><br>
+      *Figure Y: Bar chart showing the most frequently used words in the dataset.*
+    </div>
+    <!-- Image Column -->
+    <div style="flex: 0;">
+      <img src="assets/top_20_words.png" alt="Top 20 Most Frequent Words" width="300">
+    </div>
+  </div>
 
-   - **Word Cloud Generation:** Word clouds illustrate the most common words and contextual themes in the dataset.
-     **Word Cloud:**
-![Word Cloud of Tweets](assets/word_cloud.png)
-*Figure X: Word cloud illustrating the most common words in the dataset.*
-   - **Sentence Length Distribution:** Histograms of sentence lengths show a right-skewed distribution, indicating that most sentences are short and concise—a characteristic common in online communications.
-     **Top 20 Most Frequent Words:**
-![Top 20 Most Frequent Words](assets/top_20_words.png)
-*Figure Y: Bar chart showing the most frequently used words in the dataset.*
 
 ### Model Development
 Three main models were developed to perform emotion detection from the preprocessed text:
