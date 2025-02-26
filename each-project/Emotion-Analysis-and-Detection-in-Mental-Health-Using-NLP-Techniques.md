@@ -104,9 +104,12 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
     </div>
     <!-- Image Column -->
     <div style="flex: 0;">
-      <img src="/assets/word_cloud.png" alt="Word Cloud of Tweets" width="300">
+      <a href="../assets/word_cloud.png" target="_blank">
+        <img src="../assets/word_cloud.png" alt="Word Cloud of Tweets" width="300">
+      </a>
     </div>
   </div>
+
 
 - **Sentence Length Distribution:**  
   <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
