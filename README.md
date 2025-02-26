@@ -40,7 +40,7 @@
    - Explored feature importance to highlight key indicators of insolvency risk.
 
 
-
+---
 
 <div class="project-card">
   <!-- Clickable Thumbnail -->
@@ -73,21 +73,22 @@
 ---
 <div class="project-card">
   <!-- Clickable Thumbnail -->
-  <a href="https://github.com/Vamsi4040/Multi-Lingual-Fake-News-Detection" target="_blank">
+  <a class="project-link" href="{{ '/each-project/Multi-Lingual-Fake-News-Detection.html' | relative_url }}">
     <img class="project-thumbnail" src="{{ '/assets/images/fake-news-thumbnail.png' | relative_url }}" alt="Multi-Lingual Fake News Detection">
   </a>
 
   <!-- Project Details -->
   <div class="project-details">
     <!-- Clickable Title -->
-    <a class="project-title" href="https://github.com/Vamsi4040/Multi-Lingual-Fake-News-Detection" target="_blank">
+    <a class="project-link project-title" href="{{ '/each-project/Multi-Lingual-Fake-News-Detection.html' | relative_url }}">
       Multi-Lingual Fake News Detection
     </a>
     <p class="project-description">
-      A system that detects fake news in multiple languages using machine learning models and NLP techniques. It includes data preprocessing, model training, and evaluation.
+      A system that detects fake news in multiple languages using machine learning models and NLP techniques.
     </p>
   </div>
 </div>
+
 
 ---
 
