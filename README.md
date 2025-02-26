@@ -34,13 +34,6 @@
 ---
 
 ## Projects
-1. **Bankruptcy Prediction**  
-   - Developed a robust predictive model to forecast the likelihood of bankruptcy for companies/individuals based on financial attributes.  
-   - Implemented algorithms such as Logistic Regression, Random Forest, and XGBoost.  
-   - Explored feature importance to highlight key indicators of insolvency risk.
-
-
----
 
 <div class="project-card">
   <!-- Clickable Thumbnail -->
@@ -88,13 +81,6 @@
   </div>
 </div>
 
-
----
-
-3. **Fake News Detection**  
-   - Built a deep learning-based fake news detection system using fine-tuned DistilBERT.  
-   - Performed data preprocessing, model training, evaluation, and deployment via Gradio.  
-   - Achieved high accuracy in identifying misinformation and aided real-time classification.
 
 ---
 
