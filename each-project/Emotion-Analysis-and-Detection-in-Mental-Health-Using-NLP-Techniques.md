@@ -11,8 +11,6 @@ permalink: /each-project/emotion-analysis-and-detection-in-mental-health-using-n
 ## Abstract
 Mental health issues—particularly depression—pose a significant global challenge, impacting millions of lives. Early detection and intervention are critical to reduce the negative outcomes associated with depression. With the proliferation of social media platforms, text-based expressions of emotions have emerged as invaluable indicators for mental health detection. This project explores the use of Natural Language Processing (NLP) techniques to detect depression from textual data. By leveraging data collected from platforms such as Twitter and Reddit, the study applies extensive preprocessing (including tokenization, stopword removal, and lemmatization) and develops advanced machine learning models. These models include a CNN-LSTM based Emotion Classifier as well as transformer-based architectures such as BERT and DistilBERT. Although the deep learning models show promise, challenges related to data imbalance and the complexity of emotional nuances persist, highlighting areas for future improvement in both model architecture and preprocessing strategies.
 
-## Keywords
-Emotion Analysis, Natural Language Processing, Mental Health Detection, Depression, Social Media, CNN-LSTM, BERT, DistilBERT, Preprocessing, Tokenization, Word Embeddings, Real-time Applications
 
 ## Introduction
 Depressive disorder, commonly referred to as depression, is a widespread mental illness that drastically affects individuals' lives across the globe. According to the World Health Organization (WHO), depression can severely impair one's ability to function, and in extreme cases, may even lead to self-harm. Adolescents and middle-aged adults are especially vulnerable, with rising global rates observed between 2005 and 2022.
@@ -59,7 +57,7 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
 - **Lemmatization:** Reduce words to their base forms.
 
 
-#### Data Preparation Steps:
+### Data Preparation Steps:
 1. **Text Cleaning:**  
    - **Removal of Noise:** URLs, mentions, hashtags, punctuation, and special characters are removed.
    - **Lowercasing:** All text is converted to lowercase for consistency.
@@ -75,8 +73,22 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
 
 5. **Exploratory Data Analysis (EDA):**  
    - **Emotion Distribution:** Visualization of the frequency of each emotion reveals that neutral, worry, and happiness are the most prevalent, while emotions such as anger, boredom, and enthusiasm appear less frequently.
+     ### Exploratory Data Analysis (EDA)
+
+To understand the prevalence of each emotion in our dataset, we plotted the number of tweets associated with each emotion:
+
+![Emotion Distribution](assets/images/emotion_distribution.png)
+
+*Figure 1: Bar chart illustrating the distribution of emotions in the dataset.*
+
    - **Word Cloud Generation:** Word clouds illustrate the most common words and contextual themes in the dataset.
+     **Word Cloud:**
+![Word Cloud of Tweets](assets/images/word_cloud.png)
+*Figure X: Word cloud illustrating the most common words in the dataset.*
    - **Sentence Length Distribution:** Histograms of sentence lengths show a right-skewed distribution, indicating that most sentences are short and concise—a characteristic common in online communications.
+     **Top 20 Most Frequent Words:**
+![Top 20 Most Frequent Words](assets/images/top_20_words.png)
+*Figure Y: Bar chart showing the most frequently used words in the dataset.*
 
 ### Model Development
 Three main models were developed to perform emotion detection from the preprocessed text:
