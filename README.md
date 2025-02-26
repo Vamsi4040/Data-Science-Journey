@@ -62,7 +62,7 @@
       Emotion Analysis and Detection in Mental Health Using NLP Techniques
     </a>
     <p class="project-description">
-      **Emotion Analysis in Mental Health (NLP)**  
+     Emotion Analysis in Mental Health (NLP) 
    - Designed and implemented an NLP-based system to detect depression from social media text.  
    - Utilized models like CNN-LSTM, BERT, and DistilBERT to classify sentiments.  
    - Improved mental health analysis through sentiment classification and real-time inference.
