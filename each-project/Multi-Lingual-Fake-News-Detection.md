@@ -1,4 +1,8 @@
-# Multi-Lingual Fake News Detection Using Deep Learning Models
+---
+layout: default
+title: "Multi-Lingual Fake News Detection Using Deep Learning Models"
+permalink: /each-project/Multi-Lingual-Fake-News-Detection.html
+---
 
 
 ## Description
