@@ -70,7 +70,26 @@
   </div>
 </div>
 
+---
+<div class="project-card">
+  <!-- Clickable Thumbnail -->
+  <a href="https://github.com/Vamsi4040/Multi-Lingual-Fake-News-Detection" target="_blank">
+    <img class="project-thumbnail" src="{{ '/assets/images/fake-news-thumbnail.png' | relative_url }}" alt="Multi-Lingual Fake News Detection">
+  </a>
 
+  <!-- Project Details -->
+  <div class="project-details">
+    <!-- Clickable Title -->
+    <a class="project-title" href="https://github.com/Vamsi4040/Multi-Lingual-Fake-News-Detection" target="_blank">
+      Multi-Lingual Fake News Detection
+    </a>
+    <p class="project-description">
+      A system that detects fake news in multiple languages using machine learning models and NLP techniques. It includes data preprocessing, model training, and evaluation.
+    </p>
+  </div>
+</div>
+
+---
 
 3. **Fake News Detection**  
    - Built a deep learning-based fake news detection system using fine-tuned DistilBERT.  
