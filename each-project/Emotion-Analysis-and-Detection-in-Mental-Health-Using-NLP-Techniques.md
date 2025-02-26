@@ -76,17 +76,17 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
 
 To understand the prevalence of each emotion in our dataset, we plotted the number of tweets associated with each emotion:
 
-![Emotion Distribution](assets/images/emotion_distribution.png)
+![Emotion Distribution](assets/emotion_distribution.png)
 
 *Figure 1: Bar chart illustrating the distribution of emotions in the dataset.*
 
    - **Word Cloud Generation:** Word clouds illustrate the most common words and contextual themes in the dataset.
      **Word Cloud:**
-![Word Cloud of Tweets](assets/images/word_cloud.png)
+![Word Cloud of Tweets](assets/word_cloud.png)
 *Figure X: Word cloud illustrating the most common words in the dataset.*
    - **Sentence Length Distribution:** Histograms of sentence lengths show a right-skewed distribution, indicating that most sentences are short and concise—a characteristic common in online communications.
      **Top 20 Most Frequent Words:**
-![Top 20 Most Frequent Words](assets/images/top_20_words.png)
+![Top 20 Most Frequent Words](assets/top_20_words.png)
 *Figure Y: Bar chart showing the most frequently used words in the dataset.*
 
 ### Model Development
