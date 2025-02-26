@@ -48,7 +48,7 @@
     <img 
       class="project-thumbnail"
       src="{{ '/assets/NLP.jpeg' | relative_url }}"
-      alt="NLP Image"
+      alt="Emotion Analysis and Detection in Mental Health"
     />
   </a>
 
@@ -73,7 +73,7 @@
 <div class="project-card">
   <!-- Clickable Thumbnail -->
   <a class="project-link" href="{{ '/each-project/Multi-Lingual-Fake-News-Detection.html' | relative_url }}">
-    <img class="project-thumbnail" src="{{ '/assets/images/fake-news-thumbnail.png' | relative_url }}" alt="Multi-Lingual Fake News Detection">
+    <img class="project-thumbnail" src="{{ '/assets/Fake-news-detection.png' | relative_url }}" alt="Multi Lingual Fake News Detection">
   </a>
 
   <!-- Project Details -->
