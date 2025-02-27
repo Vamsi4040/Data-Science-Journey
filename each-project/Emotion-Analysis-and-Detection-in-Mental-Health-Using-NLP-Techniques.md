@@ -105,7 +105,7 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
     <!-- Image Column -->
     <div style="flex: 0;">
       <a href="../assets/word_cloud.png" target="_blank">
-        <img src="/word_cloud.png" alt="Word Cloud of Tweets" width="300">
+        <img src="/assets/word_cloud.png" alt="Word Cloud of Tweets" width="300">
       </a>
     </div>
   </div>
