@@ -74,7 +74,7 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
 
 5. **Exploratory Data Analysis (EDA):**
 
-   - *Emotion Distribution:*
+   - **Emotion Distribution:**
    <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
   <!-- Text Column -->
   <div style="flex: 1; margin-right: 1rem;">
