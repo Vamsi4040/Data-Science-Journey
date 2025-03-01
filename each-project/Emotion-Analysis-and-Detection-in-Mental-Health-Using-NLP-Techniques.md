@@ -74,8 +74,9 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
 
 5. **Exploratory Data Analysis (EDA):**
 
-   - **Emotion Distribution:**
-   <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+- **Emotion Distribution:**
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
   <!-- Text Column -->
   <div style="flex: 1; margin-right: 1rem;">
     Visualization of the frequency of each emotion reveals that neutral, worry, and happiness 
@@ -88,12 +89,11 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   </div>
   <!-- Image Column -->
   <div style="flex: 0;">
-     <a href="{{ '/assets/emotion_distribution.png' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/emotion_distribution.png' | relative_url }}" alt="Emotion Distribution" width="300">
-     </a>
+    <a href="{{ '/assets/emotion_distribution.png' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/emotion_distribution.png' | relative_url }}" alt="Emotion Distribution" width="300">
+    </a>
   </div>
 </div>
-
 
 - **Word Cloud Generation:**
 
@@ -112,26 +112,23 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   </div>
 </div>
 
+- **Sentence Length Distribution:**
 
-
-
-
-- **Sentence Length Distribution:**  
-  <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-    <!-- Text Column -->
-    <div style="flex: 1; margin-right: 1rem;">
-      Histograms of sentence lengths show a right-skewed distribution, indicating that most 
-      sentences are short and concise—a characteristic common in online communications.
-      <br><br>
-      *Figure Y: Bar chart showing the most frequently used words in the dataset.*
-    </div>
-    <!-- Image Column -->
-    <div style="flex: 0;">
-       <a href="{{ '/assets/top_20_words.png' | relative_url }}" target="_blank">
-          <img src="../assets/top_20_words.png" alt="Top 20 Most Frequent Words" width="300">
-       </a>
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+  <!-- Text Column -->
+  <div style="flex: 1; margin-right: 1rem;">
+    Histograms of sentence lengths show a right-skewed distribution, indicating that most 
+    sentences are short and concise—a characteristic common in online communications.
+    <br><br>
+    *Figure Y: Bar chart showing the most frequently used words in the dataset.*
   </div>
+  <!-- Image Column -->
+  <div style="flex: 0;">
+    <a href="{{ '/assets/top_20_words.png' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/top_20_words.png' | relative_url }}" alt="Top 20 Most Frequent Words" width="300">
+    </a>
+  </div>
+</div>
 
 
 
