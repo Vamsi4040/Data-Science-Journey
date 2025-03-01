@@ -95,20 +95,23 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
 </div>
 
 
-- **Word Cloud Generation:**  
-  <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-    <!-- Text Column -->
-    <div style="flex: 1; margin-right: 1rem;">
-      Word clouds illustrate the most common words and contextual themes in the dataset.
-      <br><br>
-      *Figure 2: Word cloud illustrating the most common words in the dataset.*
-    </div>
-    <!-- Image Column -->
-    <div style="flex: 0;">
-      <a href="{{ '/assets/word_cloud.png' | relative_url }}" target="_blank">
-         <img src="../assets/word_cloud.png" alt="Top 20 Most Frequent Words" width="300">
-    </div>
+- **Word Cloud Generation:**
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+  <!-- Text Column -->
+  <div style="flex: 1; margin-right: 1rem;">
+    Word clouds illustrate the most common words and contextual themes in the dataset.
+    <br><br>
+    *Figure 2: Word cloud illustrating the most common words in the dataset.*
   </div>
+  <!-- Image Column -->
+  <div style="flex: 0;">
+    <a href="{{ '/assets/word_cloud.png' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/word_cloud.png' | relative_url }}" alt="Word Cloud of Tweets" width="300">
+    </a>
+  </div>
+</div>
+
 
 
 
