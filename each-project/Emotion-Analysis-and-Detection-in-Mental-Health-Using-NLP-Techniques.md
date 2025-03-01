@@ -89,7 +89,7 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   <!-- Image Column -->
   <div style="flex: 0;">
      <a href="{{ '/assets/emotion_distribution.png' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/emotion_distribution.png' | relative_url }}" alt="Emotion Distribution" width="30">
+        <img src="{{ '/assets/emotion_distribution.png' | relative_url }}" alt="Emotion Distribution" width="300">
      </a>
   </div>
 </div>
@@ -106,7 +106,7 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
     <!-- Image Column -->
     <div style="flex: 0;">
       <a href="{{ '/assets/word_cloud.png' | relative_url }}" target="_blank">
-         <img src="{{ '/assets/emotion_distribution.png' | relative_url }}" alt="Emotion Distribution" width="30">
+         <img src="{{ '/assets/emotion_distribution.png' | relative_url }}" alt="Emotion Distribution" width="300">
       </a>
     </div>
   </div>
