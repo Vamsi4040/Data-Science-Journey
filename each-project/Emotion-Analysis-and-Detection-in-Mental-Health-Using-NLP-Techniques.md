@@ -120,8 +120,8 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   </div>
   <!-- Image Column -->
   <div style="flex: 0;">
-    <a href="./top_20_words.png" target="_blank">
-      <img src="./top_20_words.png" alt="Top 20 Most Frequent Words" width="300">
+    <a href="{{ '/assets/top_20_words.png' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/top_20_words.png' | relative_url }}" alt="Top 20 Most Frequent Words" width="300">
     </a>
   </div>
 </div>
