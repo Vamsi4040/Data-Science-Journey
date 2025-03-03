@@ -87,8 +87,8 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   </div>
   <!-- Image Column -->
   <div style="flex: 0;">
-    <a href="emotion_distribution.png" target="_blank">
-      <img src="emotion_distribution.png" alt="Emotion Distribution" width="300">
+    <a href="./emotion_distribution.png" target="_blank">
+      <img src="./emotion_distribution.png" alt="Emotion Distribution" width="300">
     </a>
   </div>
 </div>
@@ -104,8 +104,8 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   </div>
   <!-- Image Column -->
   <div style="flex: 0;">
-    <a href="word_cloud.png" target="_blank">
-      <img src="word_cloud.png" alt="Word Cloud of Tweets" width="300">
+    <a href="./word_cloud.png" target="_blank">
+      <img src="./word_cloud.png" alt="Word Cloud of Tweets" width="300">
     </a>
   </div>
 </div>
@@ -122,13 +122,11 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   </div>
   <!-- Image Column -->
   <div style="flex: 0;">
-    <a href="top_20_words.png" target="_blank">
-      <img src="top_20_words.png" alt="Top 20 Most Frequent Words" width="300">
+    <a href="./top_20_words.png" target="_blank">
+      <img src="./top_20_words.png" alt="Top 20 Most Frequent Words" width="300">
     </a>
   </div>
 </div>
-
-
 
 
 ### Model Development
