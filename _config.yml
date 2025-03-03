@@ -4,6 +4,9 @@ description: "architect of digital insight, rigorously transforming messy data i
 theme: jekyll-theme-hacker
 url: "https://vamsi4040.github.io"
 baseurl: "/Data-Science-Journey"
+include:
+  - "each-project"
+
 
 
 
