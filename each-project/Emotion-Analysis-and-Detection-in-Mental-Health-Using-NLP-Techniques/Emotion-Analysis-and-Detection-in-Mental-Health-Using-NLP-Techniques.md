@@ -5,8 +5,6 @@ permalink: /each-project/emotion-analysis-and-detection-in-mental-health-using-n
 ---
 
 
-
-
 # Emotion Analysis and Detection in Mental Health Using Natural Language Processing Techniques
 
 ## Abstract
