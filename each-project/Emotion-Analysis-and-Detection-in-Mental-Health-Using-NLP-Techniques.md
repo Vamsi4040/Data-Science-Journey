@@ -70,6 +70,8 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
 4. **Lemmatization:**  
    - Words are reduced to their root forms to ensure consistency and to manage vocabulary size.
 
+5. **Exploratory Data Analysis (EDA):**
+
 - **Emotion Distribution:**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
@@ -85,12 +87,10 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   </div>
   <!-- Image Column -->
   <div style="flex: 0;">
-     <a href="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" target="_blank">
-        <img src="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" alt="Emotion Distribution" width="300">
-     </a>
-
+    <img src="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" alt="Emotion Distribution" width="300">
   </div>
 </div>
+
 
 - **Word Cloud Generation:**
 
