@@ -85,9 +85,10 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   </div>
   <!-- Image Column -->
   <div style="flex: 0;">
-    <a href="{{ '/assets/emotion_distribution.png' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/emotion_distribution.png' | relative_url }}" alt="Emotion Distribution" width="300">
-    </a>
+     <a href="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" target="_blank">
+        <img src="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" alt="Emotion Distribution" width="300">
+     </a>
+
   </div>
 </div>
 
