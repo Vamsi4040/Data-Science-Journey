@@ -90,7 +90,7 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
       <img src="{{ '/assets/emotion_distribution.png' | relative_url }}" alt="Emotion Distribution" width="400">
     </a>
     <br>
-    <span style="display: block; text-align: center;">
+    <span style="display: block; text-align: center; font-size: 0.8em; max-width: 400px; margin: 0 auto;">
       Figure 1: Bar chart illustrating the distribution of emotions in the dataset.
     </span>
 </div>
