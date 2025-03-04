@@ -82,8 +82,8 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
               enthusiasm appear less frequently.
              <br><br>
              To understand the prevalence of each emotion in our dataset, we plotted the number of tweets associated with each emotion.
-          </div>
-    </div>
+         </div>
+      </div>
 <div style="flex: 0; text-align: center;">
     <a href="{{ '/assets/emotion_distribution.png' | relative_url }}" target="_blank">
       <img src="{{ '/assets/emotion_distribution.png' | relative_url }}" alt="Emotion Distribution" width="400">
