@@ -207,7 +207,7 @@ The training pipeline included:
       <img 
         src="{{ '/assets/confusion-matrix.png' | relative_url }}" 
         alt="Confusion Matrix" 
-        style="width: 100%;"
+        style="width: 200%;"
       >
     </a>
     <br>
