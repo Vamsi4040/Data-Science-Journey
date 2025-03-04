@@ -101,7 +101,6 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   <!-- Text Column -->
   <div style="flex: 1; margin-right: 1rem;">
     Word clouds illustrate the most common words and contextual themes in the dataset.
-    <br><br>
   </div>
 </div>
   <!-- Image Column -->
@@ -122,7 +121,6 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   <div style="flex: 1; margin-right: 1rem;">
     Histograms of sentence lengths show a right-skewed distribution, indicating that most 
     sentences are short and concise—a characteristic common in online communications.
-    <br><br>
   </div>
 </div>
   <!-- Image Column -->
