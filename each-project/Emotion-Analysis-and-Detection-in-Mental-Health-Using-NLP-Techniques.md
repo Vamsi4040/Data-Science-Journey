@@ -84,15 +84,15 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
              To understand the prevalence of each emotion in our dataset, we plotted the number of tweets associated with each emotion.
          </div>
       </div>
-<div style="flex: 0; text-align: center;">
-    <a href="{{ '/assets/emotion_distribution.png' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/emotion_distribution.png' | relative_url }}" alt="Emotion Distribution" width="400">
-    </a>
-    <br>
-    <span style="display: block; text-align: center; font-size: 0.8em; max-width: 400px; margin: 0 auto; font-style: italic;">
-      Figure 1: Bar chart illustrating the distribution of emotions in the dataset.
-    </span>
-</div>
+      <div style="flex: 0; text-align: center;">
+          <a href="{{ '/assets/emotion_distribution.png' | relative_url }}" target="_blank">
+            <img src="{{ '/assets/emotion_distribution.png' | relative_url }}" alt="Emotion Distribution" width="400">
+          </a>
+          <br>
+          <span style="display: block; text-align: center; font-size: 0.8em; max-width: 400px; margin: 0 auto; font-style: italic;">
+            Figure 1: Bar chart illustrating the distribution of emotions in the dataset.
+          </span>
+      </div>
 
    - **Word Cloud Generation:**
 
