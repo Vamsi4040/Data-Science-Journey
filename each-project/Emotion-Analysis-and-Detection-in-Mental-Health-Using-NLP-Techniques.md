@@ -90,11 +90,11 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
       <img src="{{ '/assets/emotion_distribution.png' | relative_url }}" alt="Emotion Distribution" width="400">
     </a>
     <br>
-    <span style="display: block; text-align: center; font-size: 0.8em; max-width: 400px; margin: 0 auto;">
+    <span style="display: block; text-align: center; font-size: 0.8em; max-width: 400px; margin: 0 auto; font-style: italic;">
       Figure 1: Bar chart illustrating the distribution of emotions in the dataset.
     </span>
 </div>
- <br><br>  
+
 - **Word Cloud Generation:**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
@@ -102,7 +102,6 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   <div style="flex: 1; margin-right: 1rem;">
     Word clouds illustrate the most common words and contextual themes in the dataset.
     <br><br>
-    *Figure 2: Word cloud illustrating the most common words in the dataset.*
   </div>
 </div>
   <!-- Image Column -->
@@ -110,6 +109,10 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
     <a href="{{ '/assets/word_cloud.png' | relative_url }}" target="_blank">
       <img src="{{ '/assets/word_cloud.png' | relative_url }}" alt="Word Cloud of Tweets" width="400">
     </a>
+      <br>
+    <span style="display: block; text-align: center; font-size: 0.8em; max-width: 400px; margin: 0 auto; font-style: italic;">
+      Figure 2: Word cloud illustrating the most common words in the dataset.
+    </span>
   </div>
 
 
@@ -121,7 +124,6 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
     Histograms of sentence lengths show a right-skewed distribution, indicating that most 
     sentences are short and concise—a characteristic common in online communications.
     <br><br>
-    *Figure Y: Bar chart showing the most frequently used words in the dataset.*
   </div>
 </div>
   <!-- Image Column -->
@@ -129,6 +131,10 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
     <a href="{{ '/assets/top_20_words.png' | relative_url }}" target="_blank">
       <img src="{{ '/assets/top_20_words.png' | relative_url }}" alt="Top 20 Most Frequent Words" width="400">
     </a>
+      <br>
+    <span style="display: block; text-align: center; font-size: 0.8em; max-width: 400px; margin: 0 auto; font-style: italic;">
+      Figure 3: Bar chart showing the most frequently used words in the dataset.
+    </span>
   </div>
 
 
