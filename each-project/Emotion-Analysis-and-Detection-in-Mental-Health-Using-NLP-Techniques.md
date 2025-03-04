@@ -216,7 +216,6 @@ The training pipeline included:
 </div>
 <br><br>
 ## Results and Analysis
-
 ### Performance Metrics
 The models were compared based on various evaluation metrics:
 
