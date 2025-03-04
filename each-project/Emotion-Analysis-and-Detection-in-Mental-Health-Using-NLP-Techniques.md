@@ -104,9 +104,9 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   </div>
 </div>
   <!-- Image Column -->
-  <div style="flex: 0;">
+  <div style="flex: 0; text-align: center;">
     <a href="{{ '/assets/word_cloud.png' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/word_cloud.png' | relative_url }}" alt="Word Cloud of Tweets" width="300">
+      <img src="{{ '/assets/word_cloud.png' | relative_url }}" alt="Word Cloud of Tweets" width="400">
     </a>
   </div>
 
@@ -123,9 +123,9 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
   </div>
 </div>
   <!-- Image Column -->
-  <div style="flex: 0;">
+  <div style="flex: 0; text-align: center;">
     <a href="{{ '/assets/top_20_words.png' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/top_20_words.png' | relative_url }}" alt="Top 20 Most Frequent Words" width="300">
+      <img src="{{ '/assets/top_20_words.png' | relative_url }}" alt="Top 20 Most Frequent Words" width="400">
     </a>
   </div>
 
