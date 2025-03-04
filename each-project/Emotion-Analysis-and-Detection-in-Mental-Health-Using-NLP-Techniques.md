@@ -84,11 +84,10 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
     To understand the prevalence of each emotion in our dataset, we plotted the number of tweets 
     associated with each emotion.
     <br><br>
-    *Figure 1: Bar chart illustrating the distribution of emotions in the dataset.*
   </div>
-  <div style="flex: 0;">
-   <img src="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" alt="Emotion Distribution" width="300">
-  </div>
+   <div style="flex: 0;">
+      <img src="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" alt="Emotion Distribution" width="300">
+   </div>
 </div>
 
 
