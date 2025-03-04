@@ -174,7 +174,7 @@ The training pipeline included:
 <!-- First Row: Two Images Side by Side -->
 <div style="display: flex; gap: 1rem; justify-content: center; margin-bottom: 1rem;">
   <!-- First Image & Caption -->
-  <div style="width: 300px; text-align: center;">
+  <div style="width: 350px; text-align: center;">
     <a href="{{ '/assets/loss-over-epochs.png' | relative_url }}" target="_blank">
       <img 
         src="{{ '/assets/loss-over-epochs.png' | relative_url }}" 
@@ -187,7 +187,7 @@ The training pipeline included:
   </div>
 
   <!-- Second Image & Caption -->
-  <div style="width: 300px; text-align: center;">
+  <div style="width: 350px; text-align: center;">
     <a href="{{ '/assets/accuracy-over-epochs.png' | relative_url }}" target="_blank">
       <img 
         src="{{ '/assets/accuracy-over-epochs.png' | relative_url }}" 
@@ -207,7 +207,7 @@ The training pipeline included:
       <img 
         src="{{ '/assets/confusion-matrix.png' | relative_url }}" 
         alt="Confusion Matrix" 
-        style="width: 200%;"
+        style="width: 300%;"
       >
     </a>
     <br>
