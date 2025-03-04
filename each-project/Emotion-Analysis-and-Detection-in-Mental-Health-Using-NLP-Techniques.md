@@ -76,10 +76,9 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
 
    - **Emotion Distribution:**
 
-    <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-       <div style="flex: 1; margin-right: 1rem;">
-          Visualization of the frequency of each emotion reveals that neutral, worry, and happiness are the most prevalent, while emotions such as anger, boredom, and
-          enthusiasm appear less frequently.
+       <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+          <div style="flex: 1; margin-right: 1rem;">
+             Visualization of the frequency of each emotion reveals that neutral, worry, and happiness are the most prevalent, while emotions such as anger, boredom, and enthusiasm appear less frequently.
           <br><br>
           To understand the prevalence of each emotion in our dataset, we plotted the number of tweets associated with each emotion.
           </div>
