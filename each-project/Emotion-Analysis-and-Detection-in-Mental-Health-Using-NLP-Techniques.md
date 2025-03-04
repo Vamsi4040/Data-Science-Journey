@@ -202,7 +202,7 @@ The training pipeline included:
 
 <!-- Second Row: Third Image Centered -->
 <div style="text-align: center;">
-  <div style="width: 300px; margin: 0 auto;">
+  <div style="width: 400px; margin: 0 auto;">
     <a href="{{ '/assets/confusion-matrix.png' | relative_url }}" target="_blank">
       <img 
         src="{{ '/assets/confusion-matrix.png' | relative_url }}" 
