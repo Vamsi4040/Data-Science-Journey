@@ -171,15 +171,6 @@ The training pipeline included:
 - **Training Loop:** Monitoring training and validation losses and accuracies over epochs.
 - **Evaluation Metrics:** Accuracy, precision, recall, and F1-scores were calculated to assess model performance. A confusion matrix was also generated to visualize misclassifications among the 13 classes.
 
-/////////////- HERE Example Visuals:
-
-Loss Plot:
-
-Figure 1: Training and Validation Loss over Epochs.
-
-Accuracy Plot:
-
-Figure 2: Training and Validation Accuracy over Epochs.///////////////////
 
 ## Results and Analysis
 
@@ -210,6 +201,22 @@ The project includes several visualizations to better understand model performan
 - **Accuracy Plot:**  
   ![Accuracy Plot](images/accuracy_plot.png)  
   *Figure 2: Training and Validation Accuracy over Epochs.*
+
+  <div style="display: flex; justify-content: space-around; margin-bottom: 1rem;">
+  <!-- First Image Column -->
+  <div style="text-align: center;">
+    <img src="{{ '/assets/loss-over-epochs.png' | relative_url }}" alt="Training and Validation Loss" width="400">
+    <br>
+    <em>Figure 1: Training and Validation Loss over Epochs.</em>
+  </div>
+  <!-- Second Image Column -->
+  <div style="text-align: center;">
+    <img src="{{ '/assets/accuracy-over-epochs.png' | relative_url }}" alt="Training and Validation Accuracy" width="400">
+    <br>
+    <em>Figure 2: Training and Validation Accuracy over Epochs.</em>
+  </div>
+</div>
+
 
 - **Confusion Matrix:**  
   A detailed confusion matrix illustrates the distribution of correct and incorrect classifications across the 13 emotion classes, highlighting the challenge of correctly predicting minority classes.
