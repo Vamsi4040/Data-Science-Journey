@@ -7,7 +7,9 @@ permalink: /each-project/emotion-analysis-and-detection-in-mental-health-using-n
 
 # Emotion Analysis and Detection in Mental Health Using Natural Language Processing Techniques
 
-
+<div style="flex: 0;">
+      <img src="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" alt="Emotion Distribution" width="300">
+</div>
 
 ## Abstract
 Mental health issues—particularly depression—pose a significant global challenge, impacting millions of lives. Early detection and intervention are critical to reduce the negative outcomes associated with depression. With the proliferation of social media platforms, text-based expressions of emotions have emerged as invaluable indicators for mental health detection. This project explores the use of Natural Language Processing (NLP) techniques to detect depression from textual data. By leveraging data collected from platforms such as Twitter and Reddit, the study applies extensive preprocessing (including tokenization, stopword removal, and lemmatization) and develops advanced machine learning models. These models include a CNN-LSTM based Emotion Classifier as well as transformer-based architectures such as BERT and DistilBERT. Although the deep learning models show promise, challenges related to data imbalance and the complexity of emotional nuances persist, highlighting areas for future improvement in both model architecture and preprocessing strategies.
@@ -84,9 +86,6 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
     To understand the prevalence of each emotion in our dataset, we plotted the number of tweets 
     associated with each emotion.
     <br><br>
-   </div>
-   <div style="flex: 0;">
-      <img src="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" alt="Emotion Distribution" width="300">
    </div>
 </div>
 
