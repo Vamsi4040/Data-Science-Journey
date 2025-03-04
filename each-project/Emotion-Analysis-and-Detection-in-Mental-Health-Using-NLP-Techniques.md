@@ -171,6 +171,33 @@ The training pipeline included:
 - **Training Loop:** Monitoring training and validation losses and accuracies over epochs.
 - **Evaluation Metrics:** Accuracy, precision, recall, and F1-scores were calculated to assess model performance. A confusion matrix was also generated to visualize misclassifications among the 13 classes.
 
+<div style="display: flex; justify-content: space-around; margin-bottom: 1rem;">
+  <!-- First Image Column -->
+  <div style="text-align: center;">
+    <a href="{{ '/assets/loss-over-epochs.png' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/loss-over-epochs.png' | relative_url }}" alt="Training and Validation Loss" width="300">
+    </a>
+    <br>
+    <em>Figure 1: Training and Validation Loss over Epochs.</em>
+  </div>
+  <!-- Second Image Column -->
+  <div style="text-align: center;">
+    <a href="{{ '/assets/accuracy-over-epochs.png' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/accuracy-over-epochs.png' | relative_url }}" alt="Training and Validation Accuracy" width="300">
+    </a>
+    <br>
+    <em>Figure 2: Training and Validation Accuracy over Epochs.</em>
+  </div>
+  <!-- Third Image Column -->
+  <div style="text-align: center;">
+    <a href="{{ '/assets/confusion-matrix.png' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/confusion-matrix.png' | relative_url }}" alt="Confusion Matrix" width="300">
+    </a>
+    <br>
+    <em>Figure 3: Confusion matrix illustrates the distribution of correct and incorrect classifications across the 13 emotion classes.</em>
+  </div>
+</div>
+
 
 ## Results and Analysis
 
