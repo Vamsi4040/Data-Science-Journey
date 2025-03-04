@@ -87,7 +87,7 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
    </div>
    <div style="flex: 0;">
       <img src="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" alt="Emotion Distribution" width="300">
-  </div>
+   </div>
 </div>
 
 
