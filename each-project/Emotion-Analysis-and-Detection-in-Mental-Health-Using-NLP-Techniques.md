@@ -96,42 +96,42 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
 
    - **Word Cloud Generation:**
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-  <!-- Text Column -->
-  <div style="flex: 1; margin-right: 1rem;">
-    Word clouds illustrate the most common words and contextual themes in the dataset.
-  </div>
-</div>
-  <!-- Image Column -->
-  <div style="flex: 0; text-align: center;">
-    <a href="{{ '/assets/word_cloud.png' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/word_cloud.png' | relative_url }}" alt="Word Cloud of Tweets" width="400">
-    </a>
-      <br>
-    <span style="display: block; text-align: center; font-size: 0.8em; max-width: 400px; margin: 0 auto; font-style: italic;">
-      Figure 2: Word cloud illustrating the most common words in the dataset.
-    </span>
-  </div>
+      <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+        <!-- Text Column -->
+        <div style="flex: 1; margin-right: 1rem;">
+          Word clouds illustrate the most common words and contextual themes in the dataset.
+        </div>
+      </div>
+        <!-- Image Column -->
+        <div style="flex: 0; text-align: center;">
+          <a href="{{ '/assets/word_cloud.png' | relative_url }}" target="_blank">
+            <img src="{{ '/assets/word_cloud.png' | relative_url }}" alt="Word Cloud of Tweets" width="400">
+          </a>
+            <br>
+          <span style="display: block; text-align: center; font-size: 0.8em; max-width: 400px; margin: 0 auto; font-style: italic;">
+            Figure 2: Word cloud illustrating the most common words in the dataset.
+          </span>
+        </div>
 
    - **Sentence Length Distribution:**
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-  <!-- Text Column -->
-  <div style="flex: 1; margin-right: 1rem;">
-    Histograms of sentence lengths show a right-skewed distribution, indicating that most 
-    sentences are short and concise—a characteristic common in online communications.
-  </div>
-</div>
-  <!-- Image Column -->
-  <div style="flex: 0; text-align: center;">
-    <a href="{{ '/assets/top_20_words.png' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/top_20_words.png' | relative_url }}" alt="Top 20 Most Frequent Words" width="400">
-    </a>
-      <br>
-    <span style="display: block; text-align: center; font-size: 0.8em; max-width: 400px; margin: 0 auto; font-style: italic;">
-      Figure 3: Bar chart showing the most frequently used words in the dataset.
-    </span>
-  </div>
+      <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+        <!-- Text Column -->
+        <div style="flex: 1; margin-right: 1rem;">
+          Histograms of sentence lengths show a right-skewed distribution, indicating that most 
+          sentences are short and concise—a characteristic common in online communications.
+        </div>
+      </div>
+        <!-- Image Column -->
+        <div style="flex: 0; text-align: center;">
+          <a href="{{ '/assets/top_20_words.png' | relative_url }}" target="_blank">
+            <img src="{{ '/assets/top_20_words.png' | relative_url }}" alt="Top 20 Most Frequent Words" width="400">
+          </a>
+            <br>
+          <span style="display: block; text-align: center; font-size: 0.8em; max-width: 400px; margin: 0 auto; font-style: italic;">
+            Figure 3: Bar chart showing the most frequently used words in the dataset.
+          </span>
+        </div>
 
 ### Model Development
 Three main models were developed to perform emotion detection from the preprocessed text:
