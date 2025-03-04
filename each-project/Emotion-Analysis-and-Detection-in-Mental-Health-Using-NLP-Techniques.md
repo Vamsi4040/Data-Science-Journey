@@ -7,28 +7,6 @@ permalink: /each-project/emotion-analysis-and-detection-in-mental-health-using-n
 
 # Emotion Analysis and Detection in Mental Health Using Natural Language Processing Techniques
 
-- **Emotion Distribution:**
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-  <!-- Text Column -->
-  <div style="flex: 1; margin-right: 1rem;">
-    Visualization of the frequency of each emotion reveals that neutral, worry, and happiness 
-    are the most prevalent, while emotions such as anger, boredom, and enthusiasm appear less frequently.
-    <br><br>
-    To understand the prevalence of each emotion in our dataset, we plotted the number of tweets 
-    associated with each emotion.
-    <br><br>
-    *Figure 1: Bar chart illustrating the distribution of emotions in the dataset.*
-  </div>
-
-  <!-- Image Column -->
-  <div style="flex: 0;">
-    <a href="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" target="_blank">
-      <img src="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" alt="Emotion Distribution" width="300">
-    </a>
-  </div>
-</div>
-
 
 
 ## Abstract
@@ -124,11 +102,13 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
     <br><br>
     *Figure 2: Word cloud illustrating the most common words in the dataset.*
   </div>
+</div>
   <!-- Image Column -->
   <div style="flex: 0;">
-    <img src="{{ '/assets/word_cloud.png' | relative_url }}" alt="Word Cloud of Tweets" width="300">
+    <a href="{{ '/assets/word_cloud.png' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/word_cloud.png' | relative_url }}" alt="Word Cloud of Tweets" width="300">
+    </a>
   </div>
-</div>
 
 
 - **Sentence Length Distribution:**
@@ -141,11 +121,15 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
     <br><br>
     *Figure Y: Bar chart showing the most frequently used words in the dataset.*
   </div>
+</div>
   <!-- Image Column -->
   <div style="flex: 0;">
-    <img src="{{ '/assets/top_20_words.png' | relative_url }}" alt="Top 20 Most Frequent Words" width="300">
+    <a href="{{ '/assets/top_20_words.png' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/top_20_words.png' | relative_url }}" alt="Top 20 Most Frequent Words" width="300">
+    </a>
   </div>
-</div>
+
+
 
 
 
