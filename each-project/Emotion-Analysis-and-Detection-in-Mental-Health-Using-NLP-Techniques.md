@@ -171,6 +171,7 @@ The training pipeline included:
 - **Training Loop:** Monitoring training and validation losses and accuracies over epochs.
 - **Evaluation Metrics:** Accuracy, precision, recall, and F1-scores were calculated to assess model performance. A confusion matrix was also generated to visualize misclassifications among the 13 classes.
 
+<!-- First Row: Two Images Side by Side -->
 <div style="display: flex; gap: 1rem; justify-content: center; margin-bottom: 1rem;">
   <!-- First Image & Caption -->
   <div style="width: 300px; text-align: center;">
@@ -197,9 +198,11 @@ The training pipeline included:
     <br>
     <em>Figure 2: Training and Validation Accuracy over Epochs.</em>
   </div>
+</div>
 
-  <!-- Third Image & Caption -->
-  <div style="width: 300px; text-align: center;">
+<!-- Second Row: Third Image Centered -->
+<div style="text-align: center;">
+  <div style="width: 300px; margin: 0 auto;">
     <a href="{{ '/assets/confusion-matrix.png' | relative_url }}" target="_blank">
       <img 
         src="{{ '/assets/confusion-matrix.png' | relative_url }}" 
