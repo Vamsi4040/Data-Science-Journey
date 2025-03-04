@@ -24,11 +24,7 @@ permalink: /each-project/emotion-analysis-and-detection-in-mental-health-using-n
   <!-- Image Column -->
   <div style="flex: 0;">
     <a href="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" target="_blank">
-      <img 
-        src="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png"
-        alt="Emotion Distribution"
-        width="300"
-      >
+      <img src="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" alt="Emotion Distribution" width="300">
     </a>
   </div>
 </div>
@@ -113,8 +109,10 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
    </div>
 </div>
 <div style="flex: 0;">
+    <a href="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" target="_blank">
       <img src="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" alt="Emotion Distribution" width="300">
-</div>
+    </a>
+  </div>
   *Figure 1: Bar chart illustrating the distribution of emotions in the dataset.*
 
 - **Word Cloud Generation:**
