@@ -74,7 +74,7 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
 
 5. **Exploratory Data Analysis (EDA):**
 
-- **Emotion Distribution:**
+   - **Emotion Distribution:**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
   <div style="flex: 1; margin-right: 1rem;">
@@ -95,7 +95,7 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
     </span>
 </div>
 
-- **Word Cloud Generation:**
+   - **Word Cloud Generation:**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
   <!-- Text Column -->
@@ -115,8 +115,7 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
     </span>
   </div>
 
-
-- **Sentence Length Distribution:**
+   - **Sentence Length Distribution:**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
   <!-- Text Column -->
@@ -136,10 +135,6 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
       Figure 3: Bar chart showing the most frequently used words in the dataset.
     </span>
   </div>
-
-
-
-
 
 ### Model Development
 Three main models were developed to perform emotion detection from the preprocessed text:
