@@ -91,7 +91,8 @@ The dataset (`tweet_emotions.csv`) was created in-house and contains real-world 
 <div style="flex: 0;">
       <img src="https://vamsi4040.github.io/Data-Science-Journey/assets/emotion_distribution.png" alt="Emotion Distribution" width="300">
 </div>
-<br><br>
+*Figure 1: Bar chart illustrating the distribution of emotions in the dataset.*
+
 - **Word Cloud Generation:**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
