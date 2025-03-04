@@ -214,7 +214,7 @@ The training pipeline included:
     <em>Figure 3: Confusion matrix illustrates the distribution of correct and incorrect classifications across the 13 emotion classes.</em>
   </div>
 </div>
-<br>
+<br><br>
 ## Results and Analysis
 
 ### Performance Metrics
