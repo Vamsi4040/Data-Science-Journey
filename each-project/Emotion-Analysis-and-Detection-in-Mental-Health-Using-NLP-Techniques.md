@@ -6,7 +6,7 @@ permalink: /each-project/emotion-analysis-and-detection-in-mental-health-using-n
 
 <style>
   /* Underline headings only in this file */
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2, h3 {
     display: inline-block;
     border-bottom: 2px solid #aaa;  /* Adjust color and thickness as needed */
     padding-bottom: 4px;
