@@ -8,6 +8,13 @@ permalink: /each-project/emotion-analysis-and-detection-in-mental-health-using-n
 
 [![GitHub Logo](https://img.shields.io/badge/GitHub-View%20Project-lightgrey)](https://github.com/Vamsi4040/Emotion-Analysis-and-Detection-in-Mental-Health-Using-NLP-Techniques)
 
+<p>
+  <a href="https://github.com/Vamsi4040/Emotion-Analysis-and-Detection-in-Mental-Health-Using-NLP-Techniques" target="_blank" style="font-size: 1.2em; font-weight: bold; text-decoration: none;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="vertical-align: middle; width: 24px; margin-right: 8px;">
+    View Repository
+  </a>
+</p>
+
 
 
 ## Abstract
