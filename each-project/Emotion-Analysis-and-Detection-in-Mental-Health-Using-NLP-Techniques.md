@@ -4,6 +4,16 @@ title: "Emotion Analysis and Detection in Mental Health Using NLP Techniques"
 permalink: /each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/
 ---
 
+<style>
+  /* Underline headings only in this file */
+  h1, h2, h3, h4, h5, h6 {
+    display: inline-block;
+    border-bottom: 2px solid #aaa;  /* Adjust color and thickness as needed */
+    padding-bottom: 4px;
+    margin-bottom: 0.5em;
+  }
+</style>
+
 
 # Emotion Analysis and Detection in Mental Health Using Natural Language Processing Techniques
 
