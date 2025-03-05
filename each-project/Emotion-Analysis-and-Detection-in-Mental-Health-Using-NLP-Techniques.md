@@ -38,7 +38,7 @@ More recent work has turned to deep learning models:
 The literature indicates that while advanced models can outperform traditional methods in some respects, improvements in model tuning, data preprocessing, and handling imbalanced datasets are necessary to further enhance performance.
 
 ## Methodology
-
+s
 ### Dataset Collection and Preprocessing
 The dataset used in this study was collected from social media platforms—primarily Twitter and Reddit—where users express a broad spectrum of emotions. Posts are labeled according to various emotional states (e.g., sadness, anger, joy) and are further categorized based on whether they indicate depressive symptoms.
 
