@@ -240,7 +240,7 @@ This study demonstrates the potential of NLP techniques in detecting depression 
 - **Overfitting:** Evident in the Emotion Classifier, where validation loss increases despite improvements in training loss.
 - **Computational Costs:** Transformer-based models, particularly BERT, demand substantial computational resources, which can limit their real-time applicability.
 
-Future research directions include:
+**Future research directions include:**
 - Enhancing preprocessing methods and experimenting with different embedding techniques.
 - Exploring ensemble methods and more robust architectures.
 - Incorporating multimodal data (e.g., images, audio) to capture richer contextual information.
