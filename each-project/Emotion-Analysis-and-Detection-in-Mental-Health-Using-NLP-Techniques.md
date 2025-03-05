@@ -9,12 +9,13 @@ permalink: /each-project/emotion-analysis-and-detection-in-mental-health-using-n
 
 <div style="display: inline-flex; align-items: center;">
   <a href="https://github.com/Vamsi4040/Emotion-Analysis-and-Detection-in-Mental-Health-Using-NLP-Techniques" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="width: 35px; margin-right: 10px;">
-    <span style="background-color: #d3d3d3; color: #000; padding: 8px 12px; border-radius: 4px; font-size: 1em;">
-      View in Repository
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="height: 32px; width: auto; margin-right: 10px;">
+    <span style="display: inline-flex; align-items: center; justify-content: center; background-color: #d3d3d3; color: #000; padding: 0 12px; border-radius: 4px; font-size: 1em; height: 32px; line-height: 32px;">
+      View Repository
     </span>
   </a>
 </div>
+
 
 <br>
 
