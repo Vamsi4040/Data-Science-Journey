@@ -234,36 +234,6 @@ The models were compared based on various evaluation metrics:
 - **DistilBERT:**  
   Balances performance and speed, making it particularly attractive for real-time applications. Although detailed metrics are similar to BERT in some respects, its computational efficiency gives it an edge in deployment scenarios.
 
-### Visualizations
-The project includes several visualizations to better understand model performance and data characteristics:
-
-- **Loss Plot:**  
-  ![Loss Plot](images/loss_plot.png)  
-  *Figure 1: Training and Validation Loss over Epochs.*
-
-- **Accuracy Plot:**  
-  ![Accuracy Plot](images/accuracy_plot.png)  
-  *Figure 2: Training and Validation Accuracy over Epochs.*
-
-  <div style="display: flex; justify-content: space-around; margin-bottom: 1rem;">
-  <!-- First Image Column -->
-  <div style="text-align: center;">
-    <img src="{{ '/assets/loss-over-epochs.png' | relative_url }}" alt="Training and Validation Loss" width="400">
-    <br>
-    <em>Figure 1: Training and Validation Loss over Epochs.</em>
-  </div>
-  <!-- Second Image Column -->
-  <div style="text-align: center;">
-    <img src="{{ '/assets/accuracy-over-epochs.png' | relative_url }}" alt="Training and Validation Accuracy" width="400">
-    <br>
-    <em>Figure 2: Training and Validation Accuracy over Epochs.</em>
-  </div>
-</div>
-
-
-- **Confusion Matrix:**  
-  A detailed confusion matrix illustrates the distribution of correct and incorrect classifications across the 13 emotion classes, highlighting the challenge of correctly predicting minority classes.
-
 ## Conclusion and Future Work
 This study demonstrates the potential of NLP techniques in detecting depression and other emotions from text data collected from social media platforms. The application of deep learning models—ranging from simple feedforward networks to complex transformer architectures like BERT and DistilBERT—shows that while significant progress has been made, there remain notable challenges:
 - **Data Imbalance:** Underrepresented emotions result in low macro performance metrics.
