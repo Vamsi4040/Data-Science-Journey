@@ -8,6 +8,14 @@ permalink: /each-project/emotion-analysis-and-detection-in-mental-health-using-n
 
 [![GitHub Logo](https://img.shields.io/badge/GitHub-View%20Project-blue)](https://github.com/Vamsi4040/Emotion-Analysis-and-Detection-in-Mental-Health-Using-NLP-Techniques)
 
+[View this project on GitHub](https://github.com/Vamsi4040/Emotion-Analysis-and-Detection-in-Mental-Health-Using-NLP-Techniques)
+
+<p>
+  <a href="https://github.com/Vamsi4040/Emotion-Analysis-and-Detection-in-Mental-Health-Using-NLP-Techniques" target="_blank" style="font-size: 1.1em; font-weight: bold;">
+    View this project on GitHub
+  </a>
+</p>
+
 
 ## Abstract
 Mental health issues—particularly depression—pose a significant global challenge, impacting millions of lives. Early detection and intervention are critical to reduce the negative outcomes associated with depression. With the proliferation of social media platforms, text-based expressions of emotions have emerged as invaluable indicators for mental health detection. This project explores the use of Natural Language Processing (NLP) techniques to detect depression from textual data. By leveraging data collected from platforms such as Twitter and Reddit, the study applies extensive preprocessing (including tokenization, stopword removal, and lemmatization) and develops advanced machine learning models. These models include a CNN-LSTM based Emotion Classifier as well as transformer-based architectures such as BERT and DistilBERT. Although the deep learning models show promise, challenges related to data imbalance and the complexity of emotional nuances persist, highlighting areas for future improvement in both model architecture and preprocessing strategies.
