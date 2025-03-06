@@ -128,7 +128,6 @@ gr.Interface(fn=predict, inputs="text", outputs="text", title="Fake News Detecto
 ```
 
 2. **Interact with the Model**
-
 Use the web interface to input news text and view the prediction results, which indicate whether the news is considered fake or real.
 
 ## Model Architecture and Training Details
