@@ -138,7 +138,7 @@ Below is a short demonstration of the model’s inference results on sample text
   <source src="{{ '/assets/DL_Output_Video.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
+<br>
 
 ## Model Architecture and Training Details
 
