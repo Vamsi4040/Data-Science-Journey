@@ -116,7 +116,7 @@ Open the `IPYNB_Multi Lingual Fake News Detection.ipynb` file, which contains:
 
 The project includes a Gradio-based interface that enables real-time predictions:
 
-1. **Start the Interface:**  
+(1) **Start the Interface:**  
 Run the appropriate Python script or the notebook cell that launches Gradio:
 ```python
 import gradio as gr
@@ -126,7 +126,7 @@ import gradio as gr
 gr.Interface(fn=predict, inputs="text", outputs="text", title="Fake News Detector").launch()
 ```
 
-2. **Interact with the Model**
+(2) **Interact with the Model**
 Use the web interface to input news text and view the prediction results, which indicate whether the news is considered fake or real.
 
 ## Model Output Demonstration
