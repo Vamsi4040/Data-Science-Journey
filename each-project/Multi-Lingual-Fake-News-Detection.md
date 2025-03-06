@@ -122,7 +122,7 @@ Run the appropriate Python script or the notebook cell that launches Gradio:
 ```python
 import gradio as gr
 ```
-# Assuming a function `predict` is defined for inference:
+### Assuming a function `predict` is defined for inference:
 ```python
 gr.Interface(fn=predict, inputs="text", outputs="text", title="Fake News Detector").launch()
 ```
