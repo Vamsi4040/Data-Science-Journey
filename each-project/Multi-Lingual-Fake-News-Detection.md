@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Multi-Lingual Fake News Detection Using Deep Learning Models"
-permalink: /each-project/Multi-Lingual-Fake-News-Detection.html
+permalink: /each-project/Multi-Lingual-Fake-News-Detection
 ---
 
 #Multi-Lingual Fake News Detection Using Deep Learning Models
@@ -129,6 +129,11 @@ gr.Interface(fn=predict, inputs="text", outputs="text", title="Fake News Detecto
 
 2. **Interact with the Model**
 Use the web interface to input news text and view the prediction results, which indicate whether the news is considered fake or real.
+
+<video width="600" controls>
+  <source src="{{ '/assets/DL_Output_Video.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Model Architecture and Training Details
 
