@@ -14,7 +14,7 @@ permalink: /each-project/Multi-Lingual-Fake-News-Detection
     </span>
   </a>
 </div>
-
+<br>
 ## Description
 Fake news is a pervasive issue that affects societies worldwide, influencing public opinion and even impacting political landscapes. This project tackles the problem by developing a deep learning-based system that not only detects fake news but is also designed to work across multiple languages. By leveraging advanced transformer architectures and state-of-the-art natural language processing (NLP) techniques, the project aims to provide an effective, real-time solution for identifying misinformation, thereby improving the credibility of information.
 
