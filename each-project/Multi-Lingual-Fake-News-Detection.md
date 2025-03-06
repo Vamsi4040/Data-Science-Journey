@@ -130,10 +130,15 @@ gr.Interface(fn=predict, inputs="text", outputs="text", title="Fake News Detecto
 2. **Interact with the Model**
 Use the web interface to input news text and view the prediction results, which indicate whether the news is considered fake or real.
 
+## Model Output Demonstration
+
+Below is a short demonstration of the model’s inference results on sample texts. It showcases how the interface processes user input and classifies news as fake or real in real time:
+
 <video width="600" controls>
   <source src="{{ '/assets/DL_Output_Video.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 ## Model Architecture and Training Details
 
