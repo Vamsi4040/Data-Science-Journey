@@ -4,11 +4,12 @@ title: "Multi-Lingual Fake News Detection Using Deep Learning Models"
 permalink: /each-project/Multi-Lingual-Fake-News-Detection.html
 ---
 
+#Multi-Lingual Fake News Detection Using Deep Learning Models
 
 ## Description
 Fake news is a pervasive issue that affects societies worldwide, influencing public opinion and even impacting political landscapes. This project tackles the problem by developing a deep learning-based system that not only detects fake news but is also designed to work across multiple languages. By leveraging advanced transformer architectures and state-of-the-art natural language processing (NLP) techniques, the project aims to provide an effective, real-time solution for identifying misinformation, thereby improving the credibility of information.
 
-### Key Goals and Outcomes
+## Key Goals and Outcomes
 - **Accurate Classification:** Develop a binary classifier to distinguish between fake and real news.
 - **Multi-Lingual Capability:** Extend detection capabilities beyond English, ensuring broader applicability.
 - **Real-Time Predictions:** Deploy a user-friendly interface for instant fake news verification.
@@ -120,10 +121,10 @@ The project includes a Gradio-based interface that enables real-time predictions
 Run the appropriate Python script or the notebook cell that launches Gradio:
 ```python
 import gradio as gr
-
+```
 # Assuming a function `predict` is defined for inference:
 gr.Interface(fn=predict, inputs="text", outputs="text", title="Fake News Detector").launch()
-```
+
 2. **Interact with the Model**
 
 Use the web interface to input news text and view the prediction results, which indicate whether the news is considered fake or real.
