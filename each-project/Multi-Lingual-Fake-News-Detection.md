@@ -4,7 +4,16 @@ title: "Multi-Lingual Fake News Detection Using Deep Learning Models"
 permalink: /each-project/Multi-Lingual-Fake-News-Detection
 ---
 
-#Multi-Lingual Fake News Detection Using Deep Learning Models
+# Multi-Lingual Fake News Detection Using Deep Learning Models
+
+<div style="display: inline-flex; align-items: center;">
+  <a href="https://github.com/Vamsi4040/Multi-Lingual-Fake-News-Detection" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="height: 32px; width: auto; margin-right: 10px;">
+    <span style="display: inline-flex; align-items: center; justify-content: center; background-color: #d3d3d3; color: #000; padding: 0 12px; border-radius: 4px; font-size: 1em; height: 32px; line-height: 32px;">
+      View in Repository
+    </span>
+  </a>
+</div>
 
 ## Description
 Fake news is a pervasive issue that affects societies worldwide, influencing public opinion and even impacting political landscapes. This project tackles the problem by developing a deep learning-based system that not only detects fake news but is also designed to work across multiple languages. By leveraging advanced transformer architectures and state-of-the-art natural language processing (NLP) techniques, the project aims to provide an effective, real-time solution for identifying misinformation, thereby improving the credibility of information.
