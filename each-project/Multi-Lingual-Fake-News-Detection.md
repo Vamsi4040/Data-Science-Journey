@@ -153,7 +153,6 @@ Use the web interface to input news text and view the prediction results, which 
   Model performance is measured using accuracy, precision, recall, and F1-score.
 
 
-
 ## References
 - **Transformer Models:**  
   - Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*.  
