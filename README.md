@@ -86,11 +86,10 @@ add about yourself
     <ul>
       <li>Designed a transformer-based binary classifier.</li>
       <li>Optimized preprocessing for multilingual datasets.</li>
-      <li>Deployed an interactive Gradio interface for real-time verification.</li>
-    </ul>
-     <p class="cta">
+      <li>Deployed an interactive Gradio interface for real-time verification <p class="cta">
       <a href="{{ '/each-project/Multi-Lingual-Fake-News-Detection.html' | relative_url }}">Open Entire Project</a>
-    </p>
+    </p></li>
+    </ul>
   </div>
 </div>
 
