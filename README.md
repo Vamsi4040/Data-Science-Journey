@@ -62,6 +62,9 @@ add about yourself
       <li>Streamlined data preprocessing and implemented a real-time Gradio interface.</li>
       <li>Utilized models like CNN-LSTM, BERT, and DistilBERT to classify sentiments.</li>
     </ul>
+   <p class="cta">
+      <a href="{{ '/each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/' | relative_url }}">Read more</a>
+    </p>
   </div>
 </div>
 
