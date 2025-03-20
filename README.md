@@ -85,6 +85,9 @@ add about yourself
       <li>Optimized preprocessing for multilingual datasets.</li>
       <li>Deployed an interactive Gradio interface for real-time verification.</li>
     </ul>
+     <p class="cta">
+      <a href="{{ '/each-project/Multi-Lingual-Fake-News-Detection.html' | relative_url }}">Open Entire Project</a>
+    </p>
   </div>
 </div>
 
