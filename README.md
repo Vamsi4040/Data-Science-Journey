@@ -34,8 +34,8 @@ add about yourself
 
 ---
 
-## Projects
-
+## Projects 
+ 
 <div class="project-card">
   <!-- Clickable Thumbnail -->
   <a href="{{ '/each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/' | relative_url }}">
@@ -55,11 +55,16 @@ add about yourself
     >
       Emotion Analysis and Detection in Mental Health Using NLP Techniques
     </a>
-  <ul>
-    <li>Designed and implemented an NLP-based system to detect depression from social media text.</li>
-    <li>Utilized models like CNN-LSTM, BERT, and DistilBERT to classify sentiments.</li>
-    <li>Improved mental health analysis through sentiment classification and real-time inference.</li>
-  </ul>
+    <p><strong>Objective:</strong> Develop an automated system that detects depression and other mental health issues from social media text to enable early intervention.</p>
+    <p><strong>Technologies Used:</strong> Python, TensorFlow/PyTorch, CNN-LSTM, BERT, DistilBERT, Gradio, Pandas, NumPy.</p>
+    <ul>
+      <li>Built a multi-model framework combining CNN-LSTM and transformer models.</li>
+      <li>Streamlined data preprocessing and implemented a real-time Gradio interface.</li>
+      <li>Evaluated performance using standard metrics.</li>
+      <li>Designed and implemented an NLP-based system to detect depression from social media text.</li>
+      <li>Utilized models like CNN-LSTM, BERT, and DistilBERT to classify sentiments.</li>
+      <li>Improved mental health analysis through sentiment classification and real-time inference.</li>
+    </ul>
   </div>
 </div>
 
@@ -76,6 +81,13 @@ add about yourself
     <a class="project-link project-title" href="{{ '/each-project/Multi-Lingual-Fake-News-Detection.html' | relative_url }}">
       Multi-Lingual Fake News Detection
     </a>
+    <p><strong>Objective:</strong> Create a robust system to accurately detect fake news across multiple languages in real time.</p>
+    <p><strong>Technologies Used:</strong> Python, TensorFlow/PyTorch, DistilBERT, mBERT, XLM-Roberta, Hugging Face Transformers, Gradio, Pandas, NumPy.</p>
+    <ul>
+      <li>Designed a transformer-based binary classifier.</li>
+      <li>Optimized preprocessing for multilingual datasets.</li>
+      <li>Deployed an interactive Gradio interface for real-time verification.</li>
+    </ul>
     <p class="project-description">
       A system that detects fake news in multiple languages using machine learning models and NLP techniques.
     </p>
