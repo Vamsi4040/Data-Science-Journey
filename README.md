@@ -60,11 +60,8 @@ add about yourself
     <ul>
       <li>Built a multi-model framework combining CNN-LSTM and transformer models.</li>
       <li>Streamlined data preprocessing and implemented a real-time Gradio interface.</li>
-      <li>Utilized models like CNN-LSTM, BERT, and DistilBERT to classify sentiments.</li>
+      <li>Utilized models like CNN-LSTM, BERT, and DistilBERT to classify sentiments.<a href="{{ '/each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/' | relative_url }}">Read more</a></li>
     </ul>
-   <p class="cta">
-      <a href="{{ '/each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/' | relative_url }}">Read more</a>
-    </p>
   </div>
 </div>
 
@@ -86,9 +83,7 @@ add about yourself
     <ul>
       <li>Designed a transformer-based binary classifier.</li>
       <li>Optimized preprocessing for multilingual datasets.</li>
-      <li>Deployed an interactive Gradio interface for real-time verification <p class="cta">
-      <a href="{{ '/each-project/Multi-Lingual-Fake-News-Detection.html' | relative_url }}">Open Entire Project</a>
-    </p></li>
+      <li>Deployed an interactive Gradio interface for real-time verification.<a href="{{ '/each-project/Multi-Lingual-Fake-News-Detection.html' | relative_url }}">Open Entire Projec</a></li>
     </ul>
   </div>
 </div>
