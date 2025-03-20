@@ -35,76 +35,61 @@ add about yourself
 ---
 
 <section id="projects">
+
   <article class="project-card">
-    <!-- Clickable Thumbnail -->
-    <a href="{{ '/each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/' | relative_url }}">
-      <img 
-        class="project-thumbnail"
-        src="{{ '/assets/NLP.jpeg' | relative_url }}"
-        alt="Emotion Analysis and Detection in Mental Health"
-      />
-    </a>
+    <!-- Project Image -->
+    <img
+      class="project-thumbnail"
+      src="{{ '/assets/NLP.jpeg' | relative_url }}"
+      alt="Emotion Analysis and Detection in Mental Health"
+    />
 
     <!-- Project Details -->
     <div class="project-details">
-      <!-- Clickable Title -->
-      <a 
-        class="project-title"
-        href="{{ '/each-project/emotion-analysis-and-detection-in-mental-health-using-nlp-techniques/' | relative_url }}">
+      <h2 class="project-title">
         Emotion Analysis and Detection in Mental Health Using NLP Techniques
-      </a>
-
-      <!-- Project Content -->
-      <div class="project-content">
-        <p class="project-objective">
-          <strong>Objective:</strong> Develop an automated system that detects depression and other mental health issues from social media text to enable early intervention.
-        </p>
-        <p class="project-technologies">
-          <strong>Technologies Used:</strong> Python, TensorFlow/PyTorch, CNN-LSTM, BERT, DistilBERT, Gradio, Pandas, NumPy.
-        </p>
-        <ul class="project-contributions">
-          <li>Built a multi-model framework combining CNN-LSTM and transformer models.</li>
-          <li>Streamlined data preprocessing and implemented a real-time Gradio interface.</li>
-          <li>Evaluated performance using standard metrics.</li>
-        </ul>
-      </div>
+      </h2>
+      <p class="project-objective">
+        <strong>Objective:</strong> Develop an automated system that detects depression and other mental health issues from social media text to enable early intervention.
+      </p>
+      <p class="project-technologies">
+        <strong>Technologies Used:</strong> Python, TensorFlow/PyTorch, CNN-LSTM, BERT, DistilBERT, Gradio, Pandas, NumPy.
+      </p>
+      <ul class="project-contributions">
+        <li>Built a multi-model framework combining CNN-LSTM and transformer models.</li>
+        <li>Streamlined data preprocessing and implemented a real-time Gradio interface.</li>
+        <li>Evaluated performance using standard metrics.</li>
+      </ul>
     </div>
   </article>
 
   <article class="project-card">
-    <!-- Clickable Thumbnail -->
-    <a href="{{ '/each-project/Multi-Lingual-Fake-News-Detection.html' | relative_url }}">
-      <img 
-        class="project-thumbnail"
-        src="{{ '/assets/Fake-news-detection.png' | relative_url }}"
-        alt="Multi-Lingual Fake News Detection">
-    </a>
+    <!-- Project Image -->
+    <img
+      class="project-thumbnail"
+      src="{{ '/assets/Fake-news-detection.png' | relative_url }}"
+      alt="Multi-Lingual Fake News Detection"
+    />
 
     <!-- Project Details -->
     <div class="project-details">
-      <!-- Clickable Title -->
-      <a 
-        class="project-title"
-        href="{{ '/each-project/Multi-Lingual-Fake-News-Detection.html' | relative_url }}">
+      <h2 class="project-title">
         Multi-Lingual Fake News Detection
-      </a>
-
-      <!-- Project Content -->
-      <div class="project-content">
-        <p class="project-objective">
-          <strong>Objective:</strong> Create a robust system to accurately detect fake news across multiple languages in real time.
-        </p>
-        <p class="project-technologies">
-          <strong>Technologies Used:</strong> Python, TensorFlow/PyTorch, DistilBERT, mBERT, XLM-Roberta, Hugging Face Transformers, Gradio, Pandas, NumPy.
-        </p>
-        <ul class="project-contributions">
-          <li>Designed a transformer-based binary classifier.</li>
-          <li>Optimized preprocessing for multilingual datasets.</li>
-          <li>Deployed an interactive Gradio interface for real-time verification.</li>
-        </ul>
-      </div>
+      </h2>
+      <p class="project-objective">
+        <strong>Objective:</strong> Create a robust system to accurately detect fake news across multiple languages in real time.
+      </p>
+      <p class="project-technologies">
+        <strong>Technologies Used:</strong> Python, TensorFlow/PyTorch, DistilBERT, mBERT, XLM-Roberta, Hugging Face Transformers, Gradio, Pandas, NumPy.
+      </p>
+      <ul class="project-contributions">
+        <li>Designed a transformer-based binary classifier.</li>
+        <li>Optimized preprocessing for multilingual datasets.</li>
+        <li>Deployed an interactive Gradio interface for real-time verification.</li>
+      </ul>
     </div>
   </article>
+
 </section>
 
 
