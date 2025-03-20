@@ -60,10 +60,7 @@ add about yourself
     <ul>
       <li>Built a multi-model framework combining CNN-LSTM and transformer models.</li>
       <li>Streamlined data preprocessing and implemented a real-time Gradio interface.</li>
-      <li>Evaluated performance using standard metrics.</li>
-      <li>Designed and implemented an NLP-based system to detect depression from social media text.</li>
       <li>Utilized models like CNN-LSTM, BERT, and DistilBERT to classify sentiments.</li>
-      <li>Improved mental health analysis through sentiment classification and real-time inference.</li>
     </ul>
   </div>
 </div>
@@ -88,9 +85,6 @@ add about yourself
       <li>Optimized preprocessing for multilingual datasets.</li>
       <li>Deployed an interactive Gradio interface for real-time verification.</li>
     </ul>
-    <p class="project-description">
-      A system that detects fake news in multiple languages using machine learning models and NLP techniques.
-    </p>
   </div>
 </div>
 
