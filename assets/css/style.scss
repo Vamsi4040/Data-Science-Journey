@@ -1,63 +1,35 @@
----
----
-
-@import "{{ site.theme }}";
-
-/* Make a flex container for the 'third line' */
-.header-flex {
-  display: flex;
-  justify-content: space-between; /* Space out left and right items */
-  align-items: center;           /* Vertically center them */
-  flex-wrap: wrap;               /* Allow wrapping on small screens */
-}
-
-/* Left section: social/email badges */
-.header-left {
-  /* You can add custom styling if needed */
-}
-
-/* Right section: nav links */
-.header-right {
-  /* text-align: right; Optional if you want to right-align text */
-}
-
-/* Navigation styling */
-#main-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-#main-nav ul li {
-  display: inline-block;
-  margin-left: 1rem; /* Spacing between nav links */
-}
-
-#main-nav ul li a {
-  text-decoration: none;
-  color: inherit; /* Or pick a color you prefer */
-  font-weight: bold;
-}
-
-
+/* PROJECT CARDS - MOBILE-FIRST STYLING */
 .project-card {
   display: flex;
-  align-items: center;
+  flex-direction: column; /* stack image & text on small screens */
   margin: 1rem 0;
 }
-.project-thumbnail {
-  max-width: 250px;
-  margin-right: 1rem;
-  border-radius: 4px;
-}
-.project-details {
-  flex: 1;
-}
-.project-title {
-  font-weight: bold;
-  text-decoration: none;
-}
-.project-title:hover {
-  text-decoration: underline;
+
+/* Switch to side-by-side layout on screens >= 768px */
+@media (min-width: 768px) {
+  .project-card {
+    flex-direction: row;    /* place image and text side by side */
+    align-items: flex-start; /* align them at the top */
+  }
 }
 
+/* PROJECT IMAGE */
+.project-thumbnail {
+  width: 100%;       /* Let the image fill available width (for small screens) */
+  max-width: 300px;  /* Increase or decrease this to make image bigger/smaller */
+  margin-bottom: 1rem;  
+  border-radius: 4px;
+}
+
+/* On larger screens, add a right margin instead of bottom margin */
+@media (min-width: 768px) {
+  .project-thumbnail {
+    margin-right: 1rem;
+    margin-bottom: 0;
+  }
+}
+
+/* PROJECT DETAILS */
+.project-details {
+  flex: 1;  /* let the text container expand to fill remaining space */
+}
