@@ -25,7 +25,7 @@ add about yourself
 
 ## Education
 
-***University of New Haven – West Haven, CT***
+**University of New Haven – West Haven, CT**
 **Master’s in Data Science**  
 *Fall 2023 – Spring 2025*  
 **CGPA:** 3.4 / 4.0
@@ -33,7 +33,7 @@ add about yourself
 - **Coursework:** Applied Machine Learning, Statistical Inference, Cloud-Based Data Engineering, Data Mining, Big Data Analytics, Deep Learning, Natural Language Processing
 
 
-**Rajiv Gandhi University of Knowledge Technologies – Srikakulam, India**
+**Rajiv Gandhi University of Knowledge and Technologies – Srikakulam, India**
 **Bachelor’s in Mechanical Engineering**  
 *2018 – 2022*  
 **CGPA:** 8.4 / 10
