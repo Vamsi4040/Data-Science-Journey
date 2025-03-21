@@ -34,24 +34,23 @@ add about yourself
 Applied Machine Learning, Statistical Inference, Cloud-Based Data Engineering, Data Mining, Big Data Analytics, Deep Learning, Natural Language Processing
 
 **Projects & Research:**  
-- Capstone Project on Predictive Analytics (details available upon request)  
-- Ongoing research in advanced data modeling techniques  
+- Emotion Analysis and Detection in Mental Health Using NLP Techniques
+- Multi-Lingual Fake News Detection
+- Bankruptcy Prediction using Machine Learning
 
----
-
-### Rajiv Gandhi University of Knowledge Technologies – Srikakulam, India  
+**Rajiv Gandhi University of Knowledge Technologies – Srikakulam, India**
 **Bachelor’s in Mechanical Engineering**  
 *2018 – 2022*  
 **CGPA:** 8.4 / 10
 
 **Coursework:**  
-Thermodynamics, Fluid Mechanics, Materials Science, Manufacturing Processes, Control Systems, Mechanical Design, Finite Element Analysis
+Thermodynamics, Fluid Mechanics, Materials Science, Manufacturing Processes, Supply Chain & Logistics, Mechanical Design, Finite Element Analysis
 
-**Research & Projects:**  
-- Published undergraduate research in an international journal  
-- Research Project: Optimization of Heat Transfer in Mechanical Systems  
-- Relevant Projects: Design and Fabrication of an Energy-Efficient System  
-
+**Projects & Research:** 
+- Published a research article on *Water Chiller cum Air Cooler* in IRJET, Volume 9 Issue 7, July 2022.  
+- Design and Simulation of Tesla Valve
+- Disc Brake Heat Dissipation
+- Arduino-Based Line Follower Car
 
 ---
 
