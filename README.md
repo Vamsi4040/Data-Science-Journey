@@ -25,7 +25,7 @@ add about yourself
 
 ## Education
 
-**University of New Haven – West Haven, CT**
+**University of New Haven – West Haven, CT**<br>
 **Master’s in Data Science**  
 *Fall 2023 – Spring 2025*  
 **CGPA:** 3.4 / 4.0
