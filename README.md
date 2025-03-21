@@ -30,8 +30,7 @@ add about yourself
 *Fall 2023 – Spring 2025*  
 **CGPA:** 3.4 / 4.0
 
-- **Coursework:**  
-Applied Machine Learning, Statistical Inference, Cloud-Based Data Engineering, Data Mining, Big Data Analytics, Deep Learning, Natural Language Processing
+-- **Coursework:** Applied Machine Learning, Statistical Inference, Cloud-Based Data Engineering, Data Mining, Big Data Analytics, Deep Learning, Natural Language Processing
 
 
 **Rajiv Gandhi University of Knowledge Technologies – Srikakulam, India**
@@ -39,9 +38,7 @@ Applied Machine Learning, Statistical Inference, Cloud-Based Data Engineering, D
 *2018 – 2022*  
 **CGPA:** 8.4 / 10
 
-- **Coursework:**  
-Thermodynamics, Fluid Mechanics, Materials Science, Manufacturing Processes, Supply Chain & Logistics, Mechanical Design, Finite Element Analysis
-
+- **Coursework:** Thermodynamics, Fluid Mechanics, Materials Science, Manufacturing Processes, Supply Chain & Logistics, Mechanical Design, Finite Element Analysis
 
 ---
 
