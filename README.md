@@ -33,7 +33,7 @@ add about yourself
 - **Coursework:** Applied Machine Learning, Statistical Inference, Cloud-Based Data Engineering, Data Mining, Big Data Analytics, Deep Learning, Natural Language Processing
 
 
-**Rajiv Gandhi University of Knowledge and Technologies – Srikakulam, India**
+**Rajiv Gandhi University of Knowledge and Technologies – Srikakulam, India**<br>
 **Bachelor’s in Mechanical Engineering**  
 *2018 – 2022*  
 **CGPA:** 8.4 / 10
