@@ -24,13 +24,34 @@ add about yourself
 ---
 
 ## Education
-- **Master’s in Data Science**  
-  *University of New Haven, West Haven, CT (Expected May 2025)*  
-  Focus on Machine Learning, Data Mining, and Cloud Computing.
 
-- **Bachelor’s in Mechanical Engineering**  
-  *Rajiv Gandhi University of Knowledge Technologies, Srikakulam, India (May 2022)*  
-  CGPA: 8.4/10. Published undergraduate research in an international journal.
+### University of New Haven – West Haven, CT  
+**Master’s in Data Science**  
+*Fall 2023 – Spring 2025*  
+**CGPA:** 3.4 / 4.0
+
+**Coursework:**  
+Applied Machine Learning, Statistical Inference, Cloud-Based Data Engineering, Data Mining, Big Data Analytics, Deep Learning, Natural Language Processing
+
+**Projects & Research:**  
+- Capstone Project on Predictive Analytics (details available upon request)  
+- Ongoing research in advanced data modeling techniques  
+
+---
+
+### Rajiv Gandhi University of Knowledge Technologies – Srikakulam, India  
+**Bachelor’s in Mechanical Engineering**  
+*2018 – 2022*  
+**CGPA:** 8.4 / 10
+
+**Coursework:**  
+Thermodynamics, Fluid Mechanics, Materials Science, Manufacturing Processes, Control Systems, Mechanical Design, Finite Element Analysis
+
+**Research & Projects:**  
+- Published undergraduate research in an international journal  
+- Research Project: Optimization of Heat Transfer in Mechanical Systems  
+- Relevant Projects: Design and Fabrication of an Energy-Efficient System  
+
 
 ---
 
