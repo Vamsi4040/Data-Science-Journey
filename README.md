@@ -25,7 +25,7 @@ add about yourself
 
 ## Education
 
-**University of New Haven – West Haven, CT**  
+***University of New Haven – West Haven, CT***
 **Master’s in Data Science**  
 *Fall 2023 – Spring 2025*  
 **CGPA:** 3.4 / 4.0
@@ -33,10 +33,6 @@ add about yourself
 **Coursework:**  
 Applied Machine Learning, Statistical Inference, Cloud-Based Data Engineering, Data Mining, Big Data Analytics, Deep Learning, Natural Language Processing
 
-**Projects & Research:**  
-- Emotion Analysis and Detection in Mental Health Using NLP Techniques
-- Multi-Lingual Fake News Detection
-- Bankruptcy Prediction using Machine Learning
 
 **Rajiv Gandhi University of Knowledge Technologies – Srikakulam, India**
 **Bachelor’s in Mechanical Engineering**  
@@ -46,11 +42,6 @@ Applied Machine Learning, Statistical Inference, Cloud-Based Data Engineering, D
 **Coursework:**  
 Thermodynamics, Fluid Mechanics, Materials Science, Manufacturing Processes, Supply Chain & Logistics, Mechanical Design, Finite Element Analysis
 
-**Projects & Research:** 
-- Published a research article on *Water Chiller cum Air Cooler* in IRJET, Volume 9 Issue 7, July 2022.  
-- Design and Simulation of Tesla Valve
-- Disc Brake Heat Dissipation
-- Arduino-Based Line Follower Car
 
 ---
 
