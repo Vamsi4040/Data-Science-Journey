@@ -106,8 +106,8 @@ add about yourself
   - **MLOps & Model Management:** Building robust pipelines for model versioning, deployment, and monitoring.
   - **Advanced Analytics:** Applying predictive analytics techniques and data visualization in cloud environments.
 
-- [**Autodesk CAD/CAM/CAE for Mechanical Engineering**](Data-Science-Journey/assets/Coursera-AutoDesk.pdf)<br>
-  *Date Earned: July 2020*  [View Certificate](https://coursera.org/verify/specialization/JWBRCATX4CPZ)
+- [**Autodesk CAD/CAM/CAE for Mechanical Engineering**](https://coursera.org/verify/specialization/JWBRCATX4CPZ)
+  *Date Earned: July 2020*  [View Certificate](assets/Coursera-AutoDesk.pdf)
   - **3D Modeling & Simulation:** Gained proficiency in designing and simulating mechanical components.
   - **CAD:** Enhanced ability to produce detailed engineering drawings and blueprints.
   - **CAM:** Learned advanced techniques for toolpath optimization and manufacturing processes.
