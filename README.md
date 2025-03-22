@@ -98,46 +98,21 @@ add about yourself
 
 ----
 ## Certifications
+
 - [**Microsoft Certified: Azure Data Scientist Associate (DP-100)**](Data-Science-Journey/assets/DP-100%20Certificate.pdf)<br>
   *Date Earned: January 16th 2025*  [View Transcript](assets/DP-100-Transcript.pdf)
   - **Azure Machine Learning:** Developing, training, and deploying models using Azure ML.
   - **Data Ingestion & Transformation:** Utilizing Azure Data Factory and other tools for efficient data preparation.
   - **MLOps & Model Management:** Building robust pipelines for model versioning, deployment, and monitoring.
   - **Advanced Analytics:** Applying predictive analytics techniques and data visualization in cloud environments.
- 
- - ## Certifications
-- [**Microsoft Certified: Azure Data Scientist Associate (DP-100)**](Data-Science-Journey/assets/DP-100%20Certificate.pdf)  
-  *Date Earned: 01-16-2025*  
-  Demonstrates expertise in Azure-based data ingestion, model training, and deployment. Preparing for this exam enhanced my skills in:
-  - **Azure Machine Learning:** Developing, training, and deploying models using Azure ML.
-  - **Data Ingestion & Transformation:** Utilizing Azure Data Factory and other tools for efficient data preparation.
-  - **MLOps & Model Management:** Building robust pipelines for model versioning, deployment, and monitoring.
-  - **Advanced Analytics:** Applying predictive analytics techniques and data visualization in cloud environments.
 
-  <table>
-    <tr>
-      <td style="padding: 2px 5px 2px 0;"><a href="Data-Science-Journey/assets/DP-100%20Certificate.pdf">View Certificate</a></td>
-      <td style="padding: 2px 0 2px 5px;"><a href="Data-Science-Journey/assets/DP-100%20Transcript.pdf">View Transcript</a></td>
-    </tr>
-  </table>
-
-- [**Autodesk CAD/CAM/CAE for Mechanical Engineering**](https://coursera.org/verify/specialization/JWBRCATX4CPZ)  
-  *Date Earned: [Insert Date]*  
-  This certification validates my proficiency in Autodesk's CAD/CAM/CAE suite, significantly enhancing my mechanical engineering design skills. Throughout the course, I developed:
-  - **3D Modeling & Simulation:** Mastering design and simulation techniques to create precise mechanical components.
-  - **Computer-Aided Design (CAD):** Producing detailed engineering drawings and blueprints.
-  - **Computer-Aided Manufacturing (CAM):** Optimizing production processes with effective toolpath planning.
-  - **Computer-Aided Engineering (CAE):** Conducting in-depth engineering analyses to ensure design robustness.
-
-  My unwavering dedication and persistent effort in mastering these tools underscore my commitment to continuous learning and excellence in mechanical engineering.
-
-  [Verify this certificate](https://coursera.org/verify/specialization/JWBRCATX4CPZ)
-
- 
-
-
-  
- 
+- [**Autodesk CAD/CAM/CAE for Mechanical Engineering**](Data-Science-Journey/assets/Coursera-AutoDesk.pdf)<br>
+  *Date Earned: July 2020*  [View Certificate](https://coursera.org/verify/specialization/JWBRCATX4CPZ)
+  - **3D Modeling & Simulation:** Gained proficiency in designing and simulating mechanical components.
+  - **CAD:** Enhanced ability to produce detailed engineering drawings and blueprints.
+  - **CAM:** Learned advanced techniques for toolpath optimization and manufacturing processes.
+  - **CAE:** Developed skills in engineering analysis to ensure design robustness.
+  - **Dedication:** Demonstrated strong commitment and persistent effort in mastering Autodesk tools, underscoring my passion for continuous learning in mechanical engineering.
 
 
 
