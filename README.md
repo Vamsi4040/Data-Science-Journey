@@ -99,7 +99,7 @@ add about yourself
 ----
 ## Certifications
 
-- [**Microsoft Certified: Azure Data Scientist Associate (DP-100)**](Data-Science-Journey/assets/DP-100%20Certificate.pdf)<br>
+- [**Microsoft Certified: Azure Data Scientist Associate (DP-100)**](assets/DP-100-Certificate.pdf)<br>
   *Date Earned: January 16th 2025*  [View Transcript](assets/DP-100-Transcript.pdf)
   - **Azure Machine Learning:** Developing, training, and deploying models using Azure ML.
   - **Data Ingestion & Transformation:** Utilizing Azure Data Factory and other tools for efficient data preparation.
