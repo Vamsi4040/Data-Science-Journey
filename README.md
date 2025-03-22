@@ -115,7 +115,7 @@ add about yourself
   - **Dedication:** Demonstrated strong commitment and persistent effort in mastering Autodesk tools, underscoring my passion for continuous learning in mechanical engineering.
  
  - [**Improve Your English Communication Skills**](https://www.coursera.org/account/accomplishments/specialization/2K8EBU7QU3M6)<br>
-  *Date Earned: [Insert Date]*  [View Certificate](assets/Coursera-Communication.pdf)
+  *Date Earned: May 2020*  [View Certificate](assets/Coursera-Communication.pdf)
   - **Effective Communication:** Enhanced skills in speaking, listening, and writing.
   - **Presentation Skills:** Developed strategies for clear and persuasive presentations.
   - **Language Proficiency:** Improved grammar, vocabulary, and overall language usage.
