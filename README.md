@@ -114,6 +114,13 @@ add about yourself
   - **Advanced Analytics:** Applying predictive analytics techniques and data visualization in cloud environments.
   
   [View Certificate](Data-Science-Journey/assets/DP-100%20Certificate.pdf) | [View Transcript](Data-Science-Journey/assets/DP-100%20Transcript.pdf)
+  
+  <table>
+    <tr>
+      <td style="padding: 2px 5px 2px 0;"><a href="Data-Science-Journey/assets/DP-100%20Certificate.pdf">View Certificate</a></td>
+      <td style="padding: 2px 0 2px 5px;"><a href="Data-Science-Journey/assets/DP-100%20Transcript.pdf">View Transcript</a></td>
+    </tr>
+  </table>
 
 
 
