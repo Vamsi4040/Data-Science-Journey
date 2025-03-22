@@ -105,6 +105,12 @@ add about yourself
   - **Data Ingestion & Transformation:** Utilizing Azure Data Factory and other tools for efficient data preparation.
   - **MLOps & Model Management:** Building robust pipelines for model versioning, deployment, and monitoring.
   - **Advanced Analytics:** Applying predictive analytics techniques and data visualization in cloud environments.
+ 
+ - [**Improve Your English Communication Skills**](https://www.coursera.org/account/accomplishments/specialization/2K8EBU7QU3M6)<br>
+  *Date Earned: May 2020*  [View Certificate](assets/Coursera-Communication.pdf)
+  - **Effective Communication:** Enhanced skills in speaking, listening, and writing.
+  - **Presentation Skills:** Developed strategies for clear and persuasive presentations.
+  - **Language Proficiency:** Improved grammar, vocabulary, and overall language usage.
 
 - [**Autodesk CAD/CAM/CAE for Mechanical Engineering**](https://coursera.org/verify/specialization/JWBRCATX4CPZ)<br>
   *Date Earned: July 2020*  [View Certificate](assets/Coursera-AutoDesk.pdf)
@@ -113,12 +119,7 @@ add about yourself
   - **CAM:** Learned advanced techniques for toolpath optimization and manufacturing processes.
   - **CAE:** Developed skills in engineering analysis to ensure design robustness.
   - **Dedication:** Demonstrated strong commitment and persistent effort in mastering Autodesk tools, underscoring my passion for continuous learning in mechanical engineering.
- 
- - [**Improve Your English Communication Skills**](https://www.coursera.org/account/accomplishments/specialization/2K8EBU7QU3M6)<br>
-  *Date Earned: May 2020*  [View Certificate](assets/Coursera-Communication.pdf)
-  - **Effective Communication:** Enhanced skills in speaking, listening, and writing.
-  - **Presentation Skills:** Developed strategies for clear and persuasive presentations.
-  - **Language Proficiency:** Improved grammar, vocabulary, and overall language usage.
+
 
 
 
