@@ -41,6 +41,33 @@ add about yourself
 - **Coursework:** Thermodynamics, Fluid Mechanics, Materials Science, Manufacturing Processes, Supply Chain & Logistics, Mechanical Design, Finite Element Analysis
 
 ---
+## Experience
+
+### Colaberry Inc. – Boston, USA  
+**Role:** Data Scientist Intern  
+**Term:** February 2025 – May 2025  
+**Skills Learned:**  
+- API management  
+- Responsive web design  
+- Developing upskilling platforms using Bubble.io  
+
+**Work:**  
+- Managed APIs and implemented responsive designs for an upskilling platform on Bubble.io.
+
+---
+
+### Bharat Heavy Electricals Limited, HPVP – Visakhapatnam, India  
+**Role:** Mechanical Maintenance Sector Engineer Intern  
+**Term:** July 2021 – August 2021  
+**Skills Learned:**  
+- Data-driven maintenance scheduling  
+- Tool lifespan optimization  
+- Machining efficiency improvement  
+
+**Work:**  
+- Improved tool lifespan and machining efficiency through the implementation of data-driven maintenance scheduling for machinery.
+
+---
 
 ## Projects 
  
@@ -119,23 +146,6 @@ add about yourself
   - **CAM:** Learned advanced techniques for toolpath optimization and manufacturing processes.
   - **CAE:** Developed skills in engineering analysis to ensure design robustness.
   - **Dedication:** Demonstrated strong commitment and persistent effort in mastering Autodesk tools, underscoring my passion for continuous learning in mechanical engineering.
-
-
-
-
-
----
-
-## Experience
-- **Sales Representative** – *Country Delight, Hyderabad, India*  
-  *Jan 2023 – Jun 2023*  
-  - Built strong client relationships, driving repeat orders and sales growth.  
-  - Analyzed purchasing patterns to optimize inventory and reduce wastage.
-
-- **Mechanical Maintenance Intern** – *Bharat Heavy Electricals Limited (BHEL), Visakhapatnam, India*  
-  *Jul 2021 – Aug 2021*  
-  - Improved tool lifespan and machining efficiency through data-driven maintenance scheduling.  
-  - Gained hands-on experience in machinery upkeep and problem-solving.
 
 ---
 
