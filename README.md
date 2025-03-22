@@ -105,10 +105,8 @@ add about yourself
   - **MLOps & Model Management:** Building robust pipelines for model versioning, deployment, and monitoring.
   - **Advanced Analytics:** Applying predictive analytics techniques and data visualization in cloud environments.
   
-  [View Certificate](Data-Science-Journey/assets/DP-100-Certificate.pdf)  [View Transcript](Data-Science-Journey/assets/DP-100-Transcript.pdf)
+  [View Certificate](assets/DP-100-Certificate.pdf)  [View Transcript](assets/DP-100-Transcript.pdf)
 
-  ![Azure Logo](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
   
  
