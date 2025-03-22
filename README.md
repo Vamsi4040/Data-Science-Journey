@@ -106,7 +106,7 @@ add about yourself
   - **MLOps & Model Management:** Building robust pipelines for model versioning, deployment, and monitoring.
   - **Advanced Analytics:** Applying predictive analytics techniques and data visualization in cloud environments.
   
-  [View Certificate](Data-Science-Journey/assets/DP-100%20Certificate.pdf) | [View Transcript](Data-Science-Journey/assets/DP-100%20Transcript.pdf)
+  [View Certificate](Data-Science-Journey/assets/DP-100-Certificate.pdf) | [View Transcript](Data-Science-Journey/assets/DP-100-Transcript.pdf)
   
  
 
