@@ -103,6 +103,13 @@ add about yourself
 - **Microsoft Certified: Azure Data Scientist Associate (DP-100)**  
   *Date Earned: 01-16-2025*  
   Demonstrates expertise in Azure-based data ingestion, model training, and deployment.
+----
+## Certifications
+- **Microsoft Certified: Azure Data Scientist Associate (DP-100)**  
+  *Date Earned: 01-16-2025*  
+  Demonstrates expertise in Azure-based data ingestion, model training, and deployment.  
+  [View Transcript](DP-100%20cert.pdf) | [View Credentials](Micro%20dp.pdf)
+
 
 ---
 
