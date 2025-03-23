@@ -50,6 +50,14 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
 ---
 add contact details
 ---
+## Languages
+
+- **Telugu:** Native
+- **Hindi:** Fluent
+- **English:** Professional
+- **Spanish:** Basic
+---
+
 ## My Location
 
 194 Washington Street, Hartford, Connecticut
