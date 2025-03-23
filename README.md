@@ -7,10 +7,10 @@ add about yourself
 ---
 
 ## Skills
--**Programming:** Python, R, SQL  
--**Cloud & Tools:** Azure (Azure ML), MS Excel, MLflow  
--**Data Analysis:** Predictive Analytics, Statistical Analysis, Data Visualization  
--**AI/ML:** Machine Learning Algorithms, Deep Learning, NLP
+- **Programming:** Python, R, SQL  
+- **Cloud & Tools:** Azure (Azure ML), MS Excel, MLflow  
+- **Data Analysis:** Predictive Analytics, Statistical Analysis, Data Visualization  
+- **AI/ML:** Machine Learning Algorithms, Deep Learning, NLP
 
 <details markdown="1">
 <summary>Tools & Badges</summary>
@@ -26,10 +26,10 @@ add about yourself
 ## Education
 
 **University of New Haven – West Haven, CT**<br>
-**Master’s in Data Science**  
-*Fall 2023 – Spring 2025*  
-**CGPA:** 3.4 / 4.0
-- **Coursework:** Applied Machine Learning, Statistical Inference, Cloud-Based Data Engineering, Data Mining, Big Data Analytics, Deep Learning, Natural Language Processing
+- **Master’s in Data Science**  
+- *Fall 2023 – Spring 2025*  
+- **CGPA:** 3.4 / 4.0
+-- **Coursework:** Applied Machine Learning, Statistical Inference, Cloud-Based Data Engineering, Data Mining, Big Data Analytics, Deep Learning, Natural Language Processing
 
 
 **Rajiv Gandhi University of Knowledge and Technologies – Srikakulam, India**<br>
