@@ -12,9 +12,7 @@ permalink: /about/
   </div>
   <div style="margin-left: 20px;">
     <img src="/assets/my-picture.jpg" alt="Ganga Vamsik Sanipinidi" style="max-width: 200px; border-radius: 50%;">
-     <a href="{{ '/assets/my-picture.jpg' | relative_url }}" target="_blank">
             <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Emotion Distribution" width="400">
-          </a>
   </div>
 </div>
 
