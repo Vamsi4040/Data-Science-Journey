@@ -6,9 +6,9 @@ permalink: /about/
 
 # About Me
 <div id="slider" style="position: relative; width: 100%; height: 400px; overflow: hidden;">
-  <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Slide 1" class="slide" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
-  <img src="{{ 'assets/emotion_distribution.png' | relative_url }}" alt="Slide 2" class="slide" style="position: absolute; width: 100%; height: 100%; object-fit: cover; display: none;">
-  <img src="{{ '/assets/my-picture3.jpg' | relative_url }}" alt="Slide 3" class="slide" style="position: absolute; width: 100%; height: 100%; object-fit: cover; display: none;">
+  <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Slide 1" class="slide" style="position: absolute; width: 100%; height: 100%; object-fit: contain; object-position: center;">
+  <img src="{{ 'assets/emotion_distribution.png' | relative_url }}" alt="Slide 2" class="slide" style="position: absolute; width: 100%; height: 100%; object-fit: contain; object-position: center; display: none;">
+  <img src="{{ '/assets/my-picture3.jpg' | relative_url }}" alt="Slide 3" class="slide" style="position: absolute; width: 100%; height: 100%; object-fit: contain; object-position: center; display: none;">
 </div>
 
 <script>
@@ -18,9 +18,8 @@ permalink: /about/
     slides[currentSlide].style.display = 'none';
     currentSlide = (currentSlide + 1) % slides.length;
     slides[currentSlide].style.display = 'block';
-  }, 1000); // 1000ms = 1 second
+  }, 1000);
 </script>
-
 
 
 <div style="display: flex; align-items: center;">
