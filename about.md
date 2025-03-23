@@ -5,15 +5,13 @@ permalink: /about/
 ---
 
 # About Me
-
-<div id="slider" style="position: relative; width: 200px; height: 200px;">
-  <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Slide 1" class="slide" style="position: absolute; width: 100%; height: auto;">
-  <img src="{{ 'assets/emotion_distribution.png' | relative_url }}" alt="Slide 2" class="slide" style="position: absolute; width: 100%; height: auto; display: none;">
-  <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Slide 3" class="slide" style="position: absolute; width: 100%; height: auto; display: none;">
+<div id="slider" style="position: relative; width: 100%; height: 400px; overflow: hidden;">
+  <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Slide 1" class="slide" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+  <img src="{{ 'assets/emotion_distribution.png' | relative_url }}" alt="Slide 2" class="slide" style="position: absolute; width: 100%; height: 100%; object-fit: cover; display: none;">
+  <img src="{{ '/assets/my-picture3.jpg' | relative_url }}" alt="Slide 3" class="slide" style="position: absolute; width: 100%; height: 100%; object-fit: cover; display: none;">
 </div>
 
 <script>
-  // Simple slider script: cycles through images every 1 second
   let slides = document.querySelectorAll('#slider .slide');
   let currentSlide = 0;
   setInterval(() => {
