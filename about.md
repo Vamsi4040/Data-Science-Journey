@@ -6,6 +6,24 @@ permalink: /about/
 
 # About Me
 
+<div id="slider" style="position: relative; width: 200px; height: 200px;">
+  <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Slide 1" class="slide" style="position: absolute; width: 100%; height: auto;">
+  <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Slide 2" class="slide" style="position: absolute; width: 100%; height: auto; display: none;">
+  <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Slide 3" class="slide" style="position: absolute; width: 100%; height: auto; display: none;">
+</div>
+
+<script>
+  // Simple slider script: cycles through images every 1 second
+  let slides = document.querySelectorAll('#slider .slide');
+  let currentSlide = 0;
+  setInterval(() => {
+    slides[currentSlide].style.display = 'none';
+    currentSlide = (currentSlide + 1) % slides.length;
+    slides[currentSlide].style.display = 'block';
+  }, 1000); // 1000ms = 1 second
+</script>
+
+
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
