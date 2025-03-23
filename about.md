@@ -52,6 +52,8 @@ permalink: /about/
     winning the championship for three consecutive years.
 
 ---
+add contact details
+---
 ## My Location
 
 194 Washington Street, Hartford, Connecticut
