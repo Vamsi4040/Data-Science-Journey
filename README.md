@@ -137,9 +137,8 @@ add about yourself
 
 [**INTEGRATION OF WATER CHILLER AND AIR COOLER**](https://www.irjet.net/archives/V9/i7/IRJET-V9I7250.pdf)<br>
 *IRJET, Volume: 09 | Issue: 07 | July 2022*  [View Certificate](assets/IRJET-Ganga-Vamsik.jpg)
-  
-Published in IRJET, this paper introduces an innovative design that integrates a water chiller and an air cooler into a single, unified system. Utilizing a common compressor and a specially designed T-Joint with a split valve, the system efficiently divides refrigerant flow between two cooling functions. The integration is controlled by an Arduino-driven servo that adjusts based on temperature sensor inputs, ensuring optimal performance. Detailed modeling in SOLIDWORKS and simulation using ANSYS validate the design, demonstrating minimal pressure drop and enhanced energy efficiency, making it a cost-effective cooling solution.
 
+Published in [IRJET](https://www.irjet.net/), this paper introduces an innovative design that integrates a water chiller and an air cooler into a single, unified system. Utilizing a common compressor and a specially designed T-Joint with a split valve, the system efficiently divides refrigerant flow between two cooling functions. The integration is controlled by an Arduino-driven servo that adjusts based on temperature sensor inputs, ensuring optimal performance. Detailed modeling in SOLIDWORKS and simulation using ANSYS validate the design, demonstrating minimal pressure drop and enhanced energy efficiency, making it a cost-effective cooling solution.
 
 
 ---
