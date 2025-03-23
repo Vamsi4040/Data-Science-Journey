@@ -134,8 +134,10 @@ add about yourself
 ---
 
 ## Publications
-- **Research Publication:**  
-  *“Integration of Water Chiller and Air Cooler”*, published in **IRJET**, Volume 9 Issue 7, July 2022.
+
+- [**INTEGRATION OF WATER CHILLER AND AIR COOLER**](https://www.irjet.net/archives/V9/i7/IRJET-V9I7250.pdf)
+  *IRJET, Volume: 09 Issue: 07 | July 2022*  
+  [View Certificate](assets/IRJET-Ganga-Vamsik.jpg)
 
 
 ---
