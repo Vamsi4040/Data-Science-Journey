@@ -6,11 +6,12 @@ add about yourself
 
 ---
 
-## Skills
-- **Programming:** Python, R, SQL  
-- **Cloud & Tools:** Azure (Azure ML), MS Excel, MLflow  
-- **Data Analysis:** Predictive Analytics, Statistical Analysis, Data Visualization  
-- **AI/ML:** Machine Learning Algorithms, Deep Learning, NLP
+## Skills 
+**Programming:** Python, R, SQL  
+**Cloud & Tools:** Azure (Azure ML), MS Excel, MLflow  
+**Data Analysis:** Predictive Analytics, Statistical Analysis, Data Visualization  
+**AI/ML:** Machine Learning Algorithms, Deep Learning, NLP
+add skills and summary last. because they are main......
 
 <details markdown="1">
 <summary>Tools & Badges</summary>
