@@ -29,26 +29,26 @@ add about yourself
 - **Master’s in Data Science**  
 - *Fall 2023 – Spring 2025*  
 - **CGPA:** 3.4 / 4.0
--- **Coursework:** Applied Machine Learning, Statistical Inference, Cloud-Based Data Engineering, Data Mining, Big Data Analytics, Deep Learning, Natural Language Processing
+- **Coursework:** Applied Machine Learning, Statistical Inference, Cloud-Based Data Engineering, Data Mining, Big Data Analytics, Deep Learning, Natural Language Processing
 
 
 **Rajiv Gandhi University of Knowledge and Technologies – Srikakulam, India**<br>
-**Bachelor’s in Mechanical Engineering**  
-*2018 – 2022*  
-**CGPA:** 8.4 / 10
+- **Bachelor’s in Mechanical Engineering**  
+- *2018 – 2022*  
+- **CGPA:** 8.4 / 10
 - **Coursework:** Thermodynamics, Fluid Mechanics, Materials Science, Manufacturing Processes, Supply Chain & Logistics, Mechanical Design, Finite Element Analysis
 
 ---
 ## Experience
 
-**Colaberry Inc. – Boston, USA**
-**Role:** Data Scientist Intern  
-**Term:** February 2025 – May 2025   
+**Colaberry Inc. – Boston, USA**<br>
+- **Role:** Data Scientist Intern  
+- **Term:** February 2025 – May 2025   
 - At Colaberry Inc., I successfully managed APIs, implemented responsive web design, and helped in development of innovative upskilling platforms using Bubble.io, significantly enhancing user engagement and functionality, ensuring seamless integration for optimal learning.
 
-**Bharat Heavy Electricals Limited, HPVP – Visakhapatnam, India**
-**Role:** Mechanical Maintenance Sector Engineer Intern  
-**Term:** July 2021 – August 2021
+**Bharat Heavy Electricals Limited, HPVP – Visakhapatnam, India**<br>
+- **Role:** Mechanical Maintenance Sector Engineer Intern  
+- **Term:** July 2021 – August 2021
 - During my internship, I implemented a comprehensive data-driven maintenance scheduling system that significantly improved machinery performance. My efforts focused on optimizing tool lifespan and enhancing machining efficiency through innovative scheduling strategies, which resulted in measurable performance improvements, reduced downtime, and increased overall productivity within the maintenance operations of the organization.
 
 ---
