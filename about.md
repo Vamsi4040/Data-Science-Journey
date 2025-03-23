@@ -37,8 +37,8 @@ I'm a passionate data scientist
 194 Washington Street, Hartford, Connecticut
 
 <iframe 
-  width="600" 
-  height="450" 
+  width="400" 
+  height="250" 
   style="border:0;" 
   loading="lazy" 
   allowfullscreen 
