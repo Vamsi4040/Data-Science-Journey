@@ -13,21 +13,17 @@ permalink: /about/
   </div>
   <div style="margin-left: 20px;">
     <style>
-  .transition-img {
-    transition: transform 0.3s ease, opacity 0.3s ease;
-  }
-  .transition-img:hover {
-    transform: scale(1.05);
-    opacity: 0.9;
-  }
-</style>
-
-<img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Ganga Vamsik Sanipinidi" class="transition-img" style="max-width: 200px; border-radius: 50%;">
-
+      .transition-img {
+        transition: transform 0.3s ease, opacity 0.3s ease;
+      }
+      .transition-img:hover {
+        transform: scale(1.05);
+        opacity: 0.9;
+      }
+    </style>
+    <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Ganga Vamsik Sanipinidi" class="transition-img" style="max-width: 200px; border-radius: 50%;">
   </div>
 </div>
-
-
 
 ## Links
 - **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)  
