@@ -11,8 +11,7 @@ permalink: /about/
     <p>Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s in Data Science at the University of New Haven with an expected graduation in May 2025. My academic journey has equipped me with a robust skill set to solve real-world data challenges. I have executed projects in Natural Language Processing and Deep Learning and am presently tackling complex problems in Computer Vision. With an undergraduate background in Mechanical Engineering, I bring an interdisciplinary perspective that enriches my approach to data science. Additionally, as a Data Science Intern at Colaberry, I manage APIs while actively learning and contributing to the company’s culture. I also hold a certification in Azure Machine Learning, further enhancing my expertise in cloud-based machine learning solutions. I am passionate about leveraging data-driven insights to drive innovation and create transformative solutions.</p>
   </div>
   <div style="margin-left: 20px;">
-    <img src="/assets/my-picture.jpg" alt="Ganga Vamsik Sanipinidi" style="max-width: 200px; border-radius: 50%;">
-            <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Emotion Distribution" width="400">
+    <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Emotion Distribution" style="max-width: 200px; border-radius: 50%;">
   </div>
 </div>
 
