@@ -20,4 +20,18 @@ I'm a passionate data scientist with a unique blend of skills in predictive anal
 
 ---
 
+- **Key Member, Student Chapter IEI (2020 – 2022)**  
+  - Conducted and participated in various mechanical engineering events during undergrad.
+
+- **Volunteer: “Save A Soul” Initiative (2018 – 2022)**  
+  - Distributed food to orphanages, honing leadership and community engagement.
+
+- **Event Data Analyst**  
+  - Evaluated crowd density and identified participation trends during a technical fest (March 2022).
+
+- **Cricket Enthusiast**  
+  - Represented the Mechanical Engineering Department in Department Premier League (2018 – 2021),  
+    winning the championship for three consecutive years.
+---
+
 > *Feel free to reach out via LinkedIn or Email. I’m always excited to connect with fellow professionals and discuss data science!*
