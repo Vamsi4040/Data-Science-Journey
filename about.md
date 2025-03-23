@@ -6,9 +6,7 @@ permalink: /about/
 
 # About Me
 
-I'm a passionate data scientist with a unique blend of skills in predictive analytics, statistical modeling, and machine learning. With a foundation in mechanical engineering and a Master's in Data Science, I bring a comprehensive analytical perspective to solve complex challenges. I am particularly interested in NLP applications for mental health and deploying scalable AI solutions on the cloud.
-
-*(Feel free to expand on your journey, goals, or any other details you'd like visitors to know.)*
+I'm a passionate data scientist
 
 ## Links
 - **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)  
@@ -32,6 +30,21 @@ I'm a passionate data scientist with a unique blend of skills in predictive anal
 - **Cricket Enthusiast**  
   - Represented the Mechanical Engineering Department in Department Premier League (2018 – 2021),  
     winning the championship for three consecutive years.
+
+---
+## My Location
+
+194 Washington Street, Hartford, Connecticut
+
+<iframe 
+  width="600" 
+  height="450" 
+  style="border:0;" 
+  loading="lazy" 
+  allowfullscreen 
+  src="https://www.google.com/maps?q=194+Washington+Street,+Hartford,+CT&output=embed">
+</iframe>
+
 ---
 
 > *Feel free to reach out via LinkedIn or Email. I’m always excited to connect with fellow professionals and discuss data science!*
