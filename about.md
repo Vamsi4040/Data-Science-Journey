@@ -13,15 +13,18 @@ permalink: /about/
   </div>
   <div style="margin-left: 20px;">
     <style>
-      .transition-img {
-        transition: transform 0.3s ease, opacity 0.3s ease;
-      }
-      .transition-img:hover {
-        transform: scale(1.05);
-        opacity: 0.9;
-      }
-    </style>
-    <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Ganga Vamsik Sanipinidi" class="transition-img" style="max-width: 200px; border-radius: 50%;">
+  .image-effect {
+    filter: grayscale(100%);
+    transition: filter 0.5s ease, transform 0.5s ease, box-shadow 0.5s ease;
+  }
+  .image-effect:hover {
+    filter: grayscale(0%);
+    transform: rotate(2deg) scale(1.05);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+  }
+</style>
+
+<img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Ganga Vamsik Sanipinidi" class="image-effect" style="max-width: 200px; border-radius: 50%;">
   </div>
 </div>
 
