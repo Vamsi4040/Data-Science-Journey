@@ -81,6 +81,7 @@ add contact details
 - **Hindi:** Fluent
 - **English:** Professional
 - **Spanish:** Basic
+
 ---
 
 ## My Location
