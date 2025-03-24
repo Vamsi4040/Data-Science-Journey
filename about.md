@@ -101,8 +101,8 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
   <a href="https://github.com/Vamsi4040" target="_blank" style="margin-right: 10px;"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;"></a>
   <a href="https://www.linkedin.com/in/sgvamsik/" target="_blank" style="margin-right: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 30px; height: 30px;"></a>
   <a href="mailto:contacttovamsi@gmail.com" target="_blank" style="margin-right: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" style="width: 30px; height: 30px;"></a>
-  <a href="https://www.quora.com/profile/Vamsi-Roy-2" target="_blank" style="margin-right: 10px;"><img src="assets/quora-logo.png" alt="Quora" style="width: 30px; height: 30px;"></a>
-  <a href="https://grabcad.com/vamsi.s-1" target="_blank" style="margin-right: 10px;"><img src="assets/Grabcad-logo.png" alt="GrabCAD" style="width: 30px; height: 30px;"></a>
+  <a href="https://www.quora.com/profile/Vamsi-Roy-2" target="_blank" style="margin-right: 10px;"><img src="{{ '/assets/quora-logo.png' | relative_url }}" alt="Quora" style="width: 30px; height: 30px;"></a>
+  <a href="https://grabcad.com/vamsi.s-1" target="_blank" style="margin-right: 10px;"><img src="{{ '/assets/Grabcad-logo.png' | relative_url }}" alt="GrabCAD" style="width: 30px; height: 30px;"></a>
 </div>
   </div>
 
