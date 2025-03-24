@@ -99,16 +99,19 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
     <!-- Social Links Section -->
    <div style="margin-top: 20px;">
   <a href="https://github.com/Vamsi4040" target="_blank" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" style="width: 30px; height: 30px; filter: brightness(0) invert(1);">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
   </a>
   <a href="https://www.linkedin.com/in/sgvamsik/" target="_blank" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" style="width: 30px; height: 30px; filter: brightness(0) invert(1);">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 30px; height: 30px;">
   </a>
   <a href="mailto:contacttovamsi@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" style="width: 30px; height: 30px; filter: brightness(0) invert(1);">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" style="width: 30px; height: 30px;">
   </a>
   <a href="https://www.quora.com/profile/Vamsi-Roy-2" target="_blank" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quora.svg" alt="Quora" style="width: 30px; height: 30px; filter: brightness(0) invert(1);">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2019.svg" alt="Quora" style="width: 30px; height: 30px;">
+  </a>
+  <a href="https://grabcad.com/vamsi.s-1" target="_blank" style="margin-right: 10px;">
+    <img src="https://grabcad.com/assets/images/logo-grabcad.svg" alt="GrabCAD" style="width: 30px; height: 30px;">
   </a>
 </div>
   </div>
