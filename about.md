@@ -102,6 +102,10 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
       <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank">Ganga Vamsik S</a>
     </div>
     <div style="margin-bottom: 10px;">
+      <strong>Quora:</strong>
+      <a href="https://www.quora.com/profile/Vamsi-Roy-2" target="_blank">Vamsi Roy</a>
+    </div>
+    <div style="margin-bottom: 10px;">
       <strong>Email:</strong> 
       <a href="mailto:contacttovamsi@gmail.com" target="_blank">contacttovamsi@gmail.com</a>
     </div>
@@ -120,7 +124,8 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
       src="https://www.google.com/maps?q=194+Washington+Street,+Hartford,+CT&output=embed">
     </iframe>
   </div>
-  </div>
+
+</div>
 
 
 ---
