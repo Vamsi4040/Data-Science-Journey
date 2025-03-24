@@ -63,7 +63,12 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
 
 
 ---
-add contact details
+## Contact Details
+
+- **Email:** [your-email@example.com](contacttovamsi@gmail.com)
+- **Phone:** (860) 380-6189 
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sgvamsik/)
+- **Address:** 194 Washington Street, Hartford, Connecticut
 
 ---
 ## Languages
