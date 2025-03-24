@@ -18,7 +18,7 @@ permalink: /about/
     slides[currentSlide].style.display = 'none';
     currentSlide = (currentSlide + 1) % slides.length;
     slides[currentSlide].style.display = 'block';
-  }, 1000);
+  }, 2000);
 </script>
 
 
