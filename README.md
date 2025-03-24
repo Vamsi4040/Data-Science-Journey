@@ -11,7 +11,29 @@ add about yourself
 **Cloud & Tools:** Azure (Azure ML), MS Excel, MLflow  
 **Data Analysis:** Predictive Analytics, Statistical Analysis, Data Visualization  
 **AI/ML:** Machine Learning Algorithms, Deep Learning, NLP
-add skills and summary last. because they are main......
+
+## Skills
+
+### Programming
+- **Python:** NumPy, Pandas, Scikit-learn, Jupyter Notebooks  
+- **R:** Statistical analysis and visualization  
+- **SQL:** Data querying and manipulation
+
+### Cloud & Tools
+- **Azure (Azure ML):** Model training and deployment  
+- **MS Excel:** Data manipulation and basic analytics  
+- **MLflow:** Experiment tracking and model management
+
+### Data Analysis
+- **Predictive Analytics:** Building forecasting models  
+- **Statistical Analysis:** Hypothesis testing and inferential statistics  
+- **Data Visualization:** Creating visual insights using Matplotlib, Seaborn, Plotly, etc.
+
+### AI/ML
+- **Machine Learning Algorithms:** Regression, classification, clustering, ensemble methods  
+- **Deep Learning:** Neural networks, CNNs, RNNs, and more using TensorFlow/Keras or PyTorch  
+- **NLP:** Natural Language Processing techniques and models (e.g., BERT, DistilBERT)
+
 
 <details markdown="1">
 <summary>Tools & Badges</summary>
