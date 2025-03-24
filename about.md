@@ -61,15 +61,6 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
 - **Volunteer: “Save A Soul” Initiative (2018 – 2022)**  
   - Distributed food to orphanages, honing leadership and community engagement.
 
-
----
-## Contact Details
-
-- **Email:** [your-email@example.com](contacttovamsi@gmail.com)
-- **Phone:** (860) 380-6189 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sgvamsik/)
-- **Address:** 194 Washington Street, Hartford, Connecticut
-
 ---
 ## Languages
 
@@ -79,14 +70,14 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
 - **Spanish:** Basic
 
 ---
-## Links
+## Social Links
 - **GitHub:** [https://github.com/Vamsi4040](https://github.com/Vamsi4040)  
 - **LinkedIn:** [Ganga Vamsik S](https://linkedin.com/in/YourLinkedInProfile)  
 - **Email:** [contacttovamsi@gmail.com](mailto:contacttovamsi@gmail.com)  
 
 ---
 
-## My Location & Contact
+## Contact Details
 
 <div style="display: flex; flex-wrap: wrap;">
 
@@ -94,27 +85,22 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
   <div style="flex: 1; min-width: 300px; margin-right: 20px;">
     <strong><u>Contact Details</u></strong><br><br>
     <div style="margin-bottom: 10px;">
-      <strong>GitHub:</strong> 
-      <a href="https://github.com/Vamsi4040" target="_blank">github.com/Vamsi4040</a>
+      <strong>Email:</strong> 
+      <a href="mailto:contacttovamsi@gmail.com" target="_blank">contacttovamsi@gmail.com</a>
+    </div>
+    <div style="margin-bottom: 10px;">
+      <strong>Phone:</strong> (860) 380-6189
     </div>
     <div style="margin-bottom: 10px;">
       <strong>LinkedIn:</strong> 
-      <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank">Ganga Vamsik S</a>
-    </div>
-    <div style="margin-bottom: 10px;">
-      <strong>Quora:</strong>
-      <a href="https://www.quora.com/profile/Vamsi-Roy-2" target="_blank">Vamsi Roy</a>
-    </div>
-    <div style="margin-bottom: 10px;">
-      <strong>Email:</strong> 
-      <a href="mailto:contacttovamsi@gmail.com" target="_blank">contacttovamsi@gmail.com</a>
+      <a href="https://www.linkedin.com/in/sgvamsik/" target="_blank">Ganga Vamsik S</a>
     </div>
   </div>
 
   <!-- Map Section -->
   <div style="flex: 1; min-width: 300px;">
     <strong><u>Location</u></strong><br><br>
-    Apt 109, 194 Washington Street, Hartford, Connecticut
+    194 Washington Street, Hartford, Connecticut<br><br>
     <iframe 
       width="400" 
       height="250" 
@@ -126,6 +112,7 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
   </div>
 
 </div>
+
 
 
 ---
