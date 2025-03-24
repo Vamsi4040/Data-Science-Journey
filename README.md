@@ -30,25 +30,47 @@ add about yourself
 
 ## Skills
 
+## Skills
+
 ### Programming
+
+#### Python
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF6600?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### R
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-5851DB?style=for-the-badge)
+![Visualization](https://img.shields.io/badge/Visualization-F44336?style=for-the-badge)
+
+#### SQL
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
 ### Cloud & Tools
+
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-05C4EE?style=for-the-badge)
 
+---
+
 ### Data Analysis
+
 ![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-FF9900?style=for-the-badge)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-5851DB?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F44336?style=for-the-badge)
 
+---
+
 ### AI/ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00D8FF?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-
+
 
 
 
