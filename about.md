@@ -78,7 +78,7 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
 
 ---
 
-## Contact & Location Details
+## Contactd& Location Details
 
 <div style="display: flex; flex-wrap: wrap;">
 
