@@ -101,7 +101,7 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
   </div>
   <!-- Map Section -->
   <div style="flex: 1; min-width: 300px;">
-    <strong><u>Location</u></strong><be><br>
+    <strong><u>Location</u></strong><be><be><br>
     Apt 109, 194 Washington Street, Hartford, Connecticut<br><br>
     <iframe 
       width="400" 
