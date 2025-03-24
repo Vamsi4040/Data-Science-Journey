@@ -85,6 +85,16 @@ add about yourself
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 </details>
 
+<details>
+  <summary>
+    ![Azure ML Badge](https://img.shields.io/badge/Azure%20ML-Model%20training%20%26%20deployment-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  </summary>
+  
+  **Azure ML:**  
+  Used for model training and deployment on the Microsoft Azure platform.  
+  [Learn more about Azure ML](https://azure.microsoft.com/en-us/services/machine-learning/).
+</details>
+
 ---
 
 ## Education
