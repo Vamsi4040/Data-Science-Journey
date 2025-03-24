@@ -96,6 +96,25 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
       <strong>LinkedIn:</strong> 
       <a href="https://www.linkedin.com/in/sgvamsik/" target="_blank">Ganga Vamsik S</a>
     </div>
+     <!-- Social Icons -->
+    <div style="margin-top: 20px;">
+      <!-- Replace the src attributes with the actual paths to your icon images -->
+      <a href="https://github.com/Vamsi4040" target="_blank" style="margin-right: 10px;">
+        <img 
+          src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" 
+          alt="GitHub" 
+          style="width: 30px; height: 30px;"
+        />
+      </a>
+      <a href="https://linkedin.com/in/yourprofile" target="_blank" style="margin-right: 10px;">
+        <img 
+          src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" 
+          alt="LinkedIn" 
+          style="width: 30px; height: 30px;"
+        />
+      </a>
+      <!-- Add more icons as needed -->
+    </div>
   </div>
 
   <!-- Map Section -->
