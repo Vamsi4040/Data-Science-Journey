@@ -92,9 +92,9 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
   <!-- Contact Details Section -->
   <div style="flex: 1; min-width: 300px; padding-right: 20px;">
     <strong>Contact Details</strong><br><br>
-    - **GitHub:** [https://github.com/Vamsi4040](https://github.com/Vamsi4040)<br>
-    - **LinkedIn:** [Ganga Vamsik S](https://linkedin.com/in/YourLinkedInProfile)<br>
-    - **Email:** [contacttovamsi@gmail.com](mailto:contacttovamsi@gmail.com)
+- **GitHub:** [https://github.com/Vamsi4040](https://github.com/Vamsi4040)<br>
+- **LinkedIn:** [Ganga Vamsik S](https://linkedin.com/in/YourLinkedInProfile)<br>
+- **Email:** [contacttovamsi@gmail.com](mailto:contacttovamsi@gmail.com)
   </div>
   <!-- Map Section -->
   <div style="flex: 1; min-width: 300px;">
