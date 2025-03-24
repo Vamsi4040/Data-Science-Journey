@@ -110,7 +110,7 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
   <!-- Map Section -->
   <div style="flex: 1; min-width: 300px;">
     <strong><u>Location</u></strong><br><br>
-    Apt 109, 194 Washington Street, Hartford, Connecticut<br><br>
+    Apt 109, 194 Washington Street, Hartford, Connecticut
     <iframe 
       width="400" 
       height="250" 
