@@ -65,19 +65,20 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
 ## Languages
 
 - **Telugu:** Native
-- **Hindi:** Fluent
 - **English:** Professional
+- **Hindi:** Fluent
 - **Spanish:** Basic
 
 ---
 ## Social Links
 - **GitHub:** [https://github.com/Vamsi4040](https://github.com/Vamsi4040)  
 - **LinkedIn:** [Ganga Vamsik S](https://linkedin.com/in/YourLinkedInProfile)  
-- **Email:** [contacttovamsi@gmail.com](mailto:contacttovamsi@gmail.com)  
+- **Email:** [contacttovamsi@gmail.com](mailto:contacttovamsi@gmail.com)
+- **Quora:** [Vamsi's Profile](https://www.quora.com/profile/Vamsi-Roy-2)
 
 ---
 
-## Contact Details
+## Contact & Location Details
 
 <div style="display: flex; flex-wrap: wrap;">
 
@@ -99,7 +100,7 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
 
   <!-- Map Section -->
   <div style="flex: 1; min-width: 300px;">
-    <strong><u>Location</u></strong><br><br>
+    <strong><u>Location</u></strong><br>
     194 Washington Street, Hartford, Connecticut<br><br>
     <iframe 
       width="400" 
