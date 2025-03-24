@@ -85,15 +85,35 @@ add about yourself
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 </details>
 
-<details>
-  <summary>
-    ![Azure ML Badge](https://img.shields.io/badge/Azure%20ML-Model%20training%20%26%20deployment-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  </summary>
-  
-  **Azure ML:**  
-  Used for model training and deployment on the Microsoft Azure platform.  
-  [Learn more about Azure ML](https://azure.microsoft.com/en-us/services/machine-learning/).
+<details markdown="1">
+<summary>Tools & Badges</summary>
+
+**Programming Languages & Tools:**  
+
+<details markdown="1">
+<summary>Python</summary>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+*Used for data analysis, scripting, and building machine learning models.*
 </details>
+
+<details markdown="1">
+<summary>R</summary>
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+*Excellent for statistical analysis and data visualization.*
+</details>
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & Tools:**  
+
+<details markdown="1">
+<summary>Azure</summary>
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+*Azure ML for model training and deployment.*
+</details>
+
+</details>
+
 
 ---
 
