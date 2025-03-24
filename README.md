@@ -6,12 +6,6 @@ add about yourself
 
 ---
 
-## Skills 
-**Programming:** Python, R, SQL  
-**Cloud & Tools:** Azure (Azure ML), MS Excel, MLflow  
-**Data Analysis:** Predictive Analytics, Statistical Analysis, Data Visualization  
-**AI/ML:** Machine Learning Algorithms, Deep Learning, NLP
-
 ## Skills
 
 ### Programming
@@ -33,6 +27,29 @@ add about yourself
 - **Machine Learning Algorithms:** Regression, classification, clustering, ensemble methods  
 - **Deep Learning:** Neural networks, CNNs, RNNs, and more using TensorFlow/Keras or PyTorch  
 - **NLP:** Natural Language Processing techniques and models (e.g., BERT, DistilBERT)
+
+## Skills
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & Tools
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MS Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-05C4EE?style=for-the-badge)
+
+### Data Analysis
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-FF9900?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-5851DB?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F44336?style=for-the-badge)
+
+### AI/ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00D8FF?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge)
+
 
 
 <details markdown="1">
