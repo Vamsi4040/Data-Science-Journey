@@ -33,47 +33,38 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
 - I love web surfing.
 - I am learning Spanish.
 - I enjoy travelling to different places.
-- 
----
-
-## Links
-- **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)  
-- **LinkedIn:** [linkedin.com/in/YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)  
-- **Email:** [gvsanipinidi@example.com](mailto:gvsanipinidi@example.com)  
-- **Blog Posts:**  
-  - *Data Science Insights* – *(coming soon)*  
-  - *AI in Finance* – *(coming soon)*  
 
 ---
 ## Passions & Pursuits
 
-- **Key Member, Student Chapter IEI (2020 – 2022)**  
-  - Conducted and participated in various mechanical engineering events during undergrad.
-
-- **Volunteer: “Save A Soul” Initiative (2018 – 2022)**  
-  - Distributed food to orphanages, honing leadership and community engagement.
+- **Student Chapter IEI (2020 – 2022)**  
+  - Key member in Student Chapter, Conducted and participated in various mechanical engineering events during undergraduate.
 
 - **Event Data Analyst**  
-  - Evaluated crowd density and identified participation trends during a technical fest (March 2022).
+  - Evaluated crowd density and identified participation trends during a technical fest *Tech*(March 2022).
 
-- **Cricket Enthusiast**  
-  - Represented the Mechanical Engineering Department in Department Premier League (2018 – 2021), winning the championship for three consecutive years.
-
-- **Rally CRR Design Challenge (AMZ)**  
-  - Participated in the Rally CRR Design Challenge organized by Automotive Nuzvid, representing RGUKT Srikakulam.
+- **Rally Car Design Challenge**  
+  - Participated in the Rally Car Design Challenge organized by AMZ Automotive at IIIT Nuzvid, representing RGUKT Srikakulam.
 
 - **CATIA Phase-I Workshop (APSSDC)**  
-  - Participated in the CATIA Phase-I Workshop 2019-20 conducted by the Andhra Pradesh State Skill Development Corporation.
-
-- **Community Service Program (Ignited Minds)**  
-  - Actively participated in the Six Days Community Services Program with Ignited Minds Organisation (May 2022).
+  - Participated in the CATIA (Computer Aided Three-Dimensional Interactive Application) Phase-I Workshop 2019-2020, which is a computer-aided design (CAD) software for creating 3D models and product designs conducted by the Andhra Pradesh State Skill Development Corporation.
 
 - **Automobile & IC Engine Design Workshop (IIT Hyderabad)**  
   - Participated in the Automobile & IC Engine Design Workshop conducted by Auto-Freak India at IIT Hyderabad in October 2018.
 
+- **Cricket Enthusiast**  
+  - Represented the Mechanical Engineering Department in Department Premier League (2018 – 2021), winning the championship for three consecutive years.
+
+- **Community Service Program (Ignited Minds)**
+  - Actively participated in the Six Days Community Services Program with Ignited Minds Organisation (May 2022).
+ 
+- **Volunteer: “Save A Soul” Initiative (2018 – 2022)**  
+  - Distributed food to orphanages, honing leadership and community engagement.
+
 
 ---
 add contact details
+
 ---
 ## Languages
 
@@ -81,6 +72,15 @@ add contact details
 - **Hindi:** Fluent
 - **English:** Professional
 - **Spanish:** Basic
+
+---
+## Links
+- **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)  
+- **LinkedIn:** [linkedin.com/in/YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)  
+- **Email:** [gvsanipinidi@example.com](mailto:gvsanipinidi@example.com)  
+- **Blog Posts:**  
+  - *Data Science Insights* – *(coming soon)*  
+  - *AI in Finance* – *(coming soon)*  
 
 ---
 
