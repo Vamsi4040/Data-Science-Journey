@@ -120,8 +120,7 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
       src="https://www.google.com/maps?q=194+Washington+Street,+Hartford,+CT&output=embed">
     </iframe>
   </div>
-
-</div>
+  </div>
 
 
 ---
