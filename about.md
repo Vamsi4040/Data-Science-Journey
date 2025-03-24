@@ -80,12 +80,9 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
 
 ---
 ## Links
-- **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)  
-- **LinkedIn:** [linkedin.com/in/YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)  
-- **Email:** [gvsanipinidi@example.com](mailto:gvsanipinidi@example.com)  
-- **Blog Posts:**  
-  - *Data Science Insights* – *(coming soon)*  
-  - *AI in Finance* – *(coming soon)*  
+- **GitHub:** [https://github.com/Vamsi4040](https://github.com/Vamsi4040)  
+- **LinkedIn:** [Ganga Vamsik S](https://linkedin.com/in/YourLinkedInProfile)  
+- **Email:** [contacttovamsi@gmail.com](mailto:gvsanipinidi@example.com)  
 
 ---
 
