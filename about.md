@@ -97,21 +97,20 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
       <a href="https://www.linkedin.com/in/sgvamsik/" target="_blank">Ganga Vamsik S</a>
     </div>
     <!-- Social Links Section -->
-    <div style="margin-top: 20px;">
-      <strong><u>Social Links</u></strong><br><br>
-      <a href="https://github.com/Vamsi4040" target="_blank" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" style="width: 30px; height: 30px;">
-      </a>
-      <a href="https://www.linkedin.com/in/sgvamsik/" target="_blank" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" style="width: 30px; height: 30px;">
-      </a>
-      <a href="mailto:contacttovamsi@gmail.com" target="_blank" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" style="width: 30px; height: 30px;">
-      </a>
-      <a href="https://www.quora.com/profile/Vamsi-Roy-2" target="_blank" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quora.svg" alt="Quora" style="width: 30px; height: 30px;">
-      </a>
-    </div>
+   <div style="margin-top: 20px;">
+  <a href="https://github.com/Vamsi4040" target="_blank" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" style="width: 30px; height: 30px; filter: brightness(0) invert(1);">
+  </a>
+  <a href="https://www.linkedin.com/in/sgvamsik/" target="_blank" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" style="width: 30px; height: 30px; filter: brightness(0) invert(1);">
+  </a>
+  <a href="mailto:contacttovamsi@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" style="width: 30px; height: 30px; filter: brightness(0) invert(1);">
+  </a>
+  <a href="https://www.quora.com/profile/Vamsi-Roy-2" target="_blank" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quora.svg" alt="Quora" style="width: 30px; height: 30px; filter: brightness(0) invert(1);">
+  </a>
+</div>
   </div>
 
   <!-- Map Section -->
