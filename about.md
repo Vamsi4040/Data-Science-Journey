@@ -92,15 +92,17 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
   <!-- Contact Details Section -->
   <div style="flex: 1; min-width: 300px; padding-right: 20px;">
     <strong><u>Contact Details</u></strong><br><br>
-    <strong>GitHub:</strong> [https://github.com/Vamsi4040](https://github.com/Vamsi4040)<br>
-    <strong>LinkedIn:</strong> [Ganga Vamsik S](https://linkedin.com/in/YourLinkedInProfile)<br>
-    <strong>Email:</strong> [contacttovamsi@gmail.com](mailto:contacttovamsi@gmail.com)
+    <strong>GitHub:</strong> 
+    <a href="https://github.com/Vamsi4040" target="_blank">https://github.com/Vamsi4040</a><br>
+    <strong>LinkedIn:</strong>
+    <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank">Ganga Vamsik S</a><br>
+    <strong>Email:</strong> 
+    <a href="mailto:contacttovamsi@gmail.com" target="_blank">contacttovamsi@gmail.com</a>
   </div>
-
   <!-- Map Section -->
   <div style="flex: 1; min-width: 300px;">
-    <strong><u>Location</u></strong><br>
-    194 Washington Street, Hartford, Connecticut<br><br>
+    <strong><u>Location</u></strong><be>
+    Apt 109, 194 Washington Street, Hartford, Connecticut<br><br>
     <iframe 
       width="400" 
       height="250" 
