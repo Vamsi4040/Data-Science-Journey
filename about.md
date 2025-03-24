@@ -24,6 +24,17 @@ permalink: /about/
 
 Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s in Data Science at the University of New Haven with an expected graduation in May 2025. My academic journey has equipped me with a robust skill set to solve real-world data challenges. I have executed projects in Natural Language Processing and Deep Learning and am presently tackling complex problems in Computer Vision. With an undergraduate background in Mechanical Engineering, I bring an interdisciplinary perspective that enriches my approach to data science. Additionally, as a Data Science Intern at Colaberry, I manage APIs while actively learning and contributing to the company’s culture. I also hold a certification in Azure Machine Learning, further enhancing my expertise in cloud-based machine learning solutions. I am passionate about leveraging data-driven insights to drive innovation and create transformative solutions.
 
+---
+## Interests & Hobbies
+
+- I enjoy watching documentaries.
+- I keep up with the news.
+- I follow stock market trends.
+- I love web surfing.
+- I am learning Spanish.
+- I enjoy travelling to different places.
+---
+
 ## Links
 - **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)  
 - **LinkedIn:** [linkedin.com/in/YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)  
@@ -33,6 +44,7 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
   - *AI in Finance* – *(coming soon)*  
 
 ---
+## Passions & Pursuits
 
 - **Key Member, Student Chapter IEI (2020 – 2022)**  
   - Conducted and participated in various mechanical engineering events during undergrad.
@@ -44,8 +56,20 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
   - Evaluated crowd density and identified participation trends during a technical fest (March 2022).
 
 - **Cricket Enthusiast**  
-  - Represented the Mechanical Engineering Department in Department Premier League (2018 – 2021),  
-    winning the championship for three consecutive years.
+  - Represented the Mechanical Engineering Department in Department Premier League (2018 – 2021), winning the championship for three consecutive years.
+
+- **Rally CRR Design Challenge (AMZ)**  
+  - Participated in the Rally CRR Design Challenge organized by Automotive Nuzvid, representing RGUKT Srikakulam.
+
+- **CATIA Phase-I Workshop (APSSDC)**  
+  - Participated in the CATIA Phase-I Workshop 2019-20 conducted by the Andhra Pradesh State Skill Development Corporation.
+
+- **Community Service Program (Ignited Minds)**  
+  - Actively participated in the Six Days Community Services Program with Ignited Minds Organisation (May 2022).
+
+- **Automobile & IC Engine Design Workshop (IIT Hyderabad)**  
+  - Participated in the Automobile & IC Engine Design Workshop conducted by Auto-Freak India at IIT Hyderabad in October 2018.
+
 
 ---
 add contact details
