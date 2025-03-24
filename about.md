@@ -89,19 +89,27 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
 ## My Location & Contact
 
 <div style="display: flex; flex-wrap: wrap;">
+
   <!-- Contact Details Section -->
-  <div style="flex: 1; min-width: 300px; padding-right: 20px;">
+  <div style="flex: 1; min-width: 300px; margin-right: 20px;">
     <strong><u>Contact Details</u></strong><br><br>
-    <strong>GitHub:</strong> 
-    <a href="https://github.com/Vamsi4040" target="_blank">https://github.com/Vamsi4040</a><br>
-    <strong>LinkedIn:</strong>
-    <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank">Ganga Vamsik S</a><br>
-    <strong>Email:</strong> 
-    <a href="mailto:contacttovamsi@gmail.com" target="_blank">contacttovamsi@gmail.com</a>
+    <div style="margin-bottom: 10px;">
+      <strong>GitHub:</strong> 
+      <a href="https://github.com/Vamsi4040" target="_blank">github.com/Vamsi4040</a>
+    </div>
+    <div style="margin-bottom: 10px;">
+      <strong>LinkedIn:</strong> 
+      <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank">Ganga Vamsik S</a>
+    </div>
+    <div style="margin-bottom: 10px;">
+      <strong>Email:</strong> 
+      <a href="mailto:contacttovamsi@gmail.com" target="_blank">contacttovamsi@gmail.com</a>
+    </div>
   </div>
+
   <!-- Map Section -->
   <div style="flex: 1; min-width: 300px;">
-    <strong><u>Location</u></strong><be><be><br>
+    <strong><u>Location</u></strong><br><br>
     Apt 109, 194 Washington Street, Hartford, Connecticut<br><br>
     <iframe 
       width="400" 
@@ -112,7 +120,9 @@ Hello, my name is Ganga Vamsik Sanipinidi. I am currently pursuing a Master’s 
       src="https://www.google.com/maps?q=194+Washington+Street,+Hartford,+CT&output=embed">
     </iframe>
   </div>
+
 </div>
+
 
 ---
 
