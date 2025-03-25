@@ -36,22 +36,16 @@ add about yourself
 **R:** Statistical analysis and visualization  
 **SQL:** Data querying and manipulation.
 
-<!-- Toggle button for displaying badges -->
-<button onclick="var el = document.getElementById('progBadges'); el.style.display = (el.style.display === 'none' ? 'block' : 'none');" style="margin-top: 10px; cursor: pointer;">
-  <strong>Programming</strong>
-</button>
+<details markdown="1">
+<summary><strong>Show Badges</strong></summary>
 
-<div id="progBadges" style="display: none; margin-top: 10px;">
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-FF6600?style=for-the-badge&logo=jupyter&logoColor=white)
-  <br>
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  <br>
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-</div>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FF6600?style=for-the-badge&logo=jupyter&logoColor=white)  
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
 
 
 ---
