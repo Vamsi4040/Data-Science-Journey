@@ -6,7 +6,6 @@ permalink: /about/
 
 # About Me
 <div id="slider" style="position: relative; width: 100%; height: 400px; overflow: hidden;">
-  <img src="{{ '/assets/my-picture.jpg' | relative_url }}" alt="Slide 1" class="slide" style="position: absolute; width: 100%; height: 100%; object-fit: contain; object-position: center;">
   <img src="{{ 'assets/slide1.JPG' | relative_url }}" alt="Slide 2" class="slide" style="position: absolute; width: 100%; height: 100%; object-fit: contain; object-position: center; display: none;">
   <img src="{{ 'assets/slide2.jpg' | relative_url }}" alt="Slide 3" class="slide" style="position: absolute; width: 100%; height: 100%; object-fit: contain; object-position: center; display: none;">
 </div>
