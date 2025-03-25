@@ -9,28 +9,6 @@ add about yourself
 ## Skills
 
 ### Programming
-- **Python:** NumPy, Pandas, Scikit-learn, Jupyter Notebooks  
-- **R:** Statistical analysis and visualization  
-- **SQL:** Data querying and manipulation
-
-### Cloud & Tools
-- **Azure (Azure ML):** Model training and deployment  
-- **MS Excel:** Data manipulation and basic analytics  
-- **MLflow:** Experiment tracking and model management
-
-### Data Analysis
-- **Predictive Analytics:** Building forecasting models  
-- **Statistical Analysis:** Hypothesis testing and inferential statistics  
-- **Data Visualization:** Creating visual insights using Matplotlib, Seaborn, Plotly, etc.
-
-### AI/ML
-- **Machine Learning Algorithms:** Regression, classification, clustering, ensemble methods  
-- **Deep Learning:** Neural networks, CNNs, RNNs, and more using TensorFlow/Keras and PyTorch  
-- **NLP:** Natural Language Processing techniques and models (e.g., BERT, DistilBERT)
-
-## Skills111
-
-## Programming
 
 <details markdown="1">
 <summary><strong>Python</strong>: NumPy, Pandas, Scikit-learn, Jupyter Notebooks</summary>
@@ -52,10 +30,9 @@ add about yourself
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </details>
+![SQL: Data querying and manipulation](https://img.shields.io/badge/SQL%3A%20Data%20querying%20and%20manipulation-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
----
-## Cloud & Tools
+### Cloud & Tools
 
 <details markdown="1">
 <summary><strong>Azure (Azure ML)</strong>: Model training and deployment</summary>
@@ -78,9 +55,7 @@ add about yourself
 
 </details>
 
----
-
-## Data Analysis
+### Data Analysis
 
 <details markdown="1">
 <summary><strong>Predictive Analytics</strong>: Building forecasting models</summary>
@@ -103,9 +78,7 @@ add about yourself
 
 </details>
 
----
-
-## AI/ML
+### AI/ML
 
 <details markdown="1">
 <summary><strong>Machine Learning Algorithms</strong>: Regression, classification, clustering, ensemble methods</summary>
