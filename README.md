@@ -32,20 +32,31 @@ add about yourself
 
 ## Programming
 
-**Python:** NumPy, Pandas, Scikit-learn, Jupyter Notebooks  
-**R:** Statistical analysis and visualization  
-**SQL:** Data querying and manipulation.
+<details markdown="1">
+<summary><strong>Python</strong>: NumPy, Pandas, Scikit-learn, Jupyter Notebooks</summary>
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-FF6600?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</details>
 
 <details markdown="1">
-<summary><strong>Show Badges</strong></summary>
+<summary><strong>R</strong>: Statistical analysis and visualization</summary>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FF6600?style=for-the-badge&logo=jupyter&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+</details>
+
+<details markdown="1">
+<summary><strong>SQL</strong>: Data querying and manipulation</summary>
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </details>
+
 
 ---
 ## Cloud & Tools
