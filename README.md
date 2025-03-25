@@ -201,7 +201,7 @@ I am a data enthusiast with a strong foundation in Python, SQL, and machine lear
  
  - [**Improve Your English Communication Skills**](https://www.coursera.org/account/accomplishments/specialization/2K8EBU7QU3M6)<br>
   *Date Earned: May 2020*  [View Certificate](assets/Coursera-Communication.pdf)
-  - **Effective Communication:** Enhanced skills in speaking, listening, and writing.
+   - **Effective Communication:** Enhanced skills in speaking, listening, and writing.
   - **Presentation Skills:** Developed strategies for clear and persuasive presentations.
   - **Language Proficiency:** Improved grammar, vocabulary, and overall language usage.
 
