@@ -33,7 +33,8 @@ add about yourself
 
 ### Cloud & Tools
 
-![Azure ML](https://img.shields.io/badge/Azure%20ML-Model%20Training%20%26%20Deployment-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-Model%20Training%20%26%20Deployment-0072C6?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Microsoft_Azure_Machine_Learning_Logo.svg/200px-Microsoft_Azure_Machine_Learning_Logo.svg.png&logoWidth=40)
+
 
 ---
 
