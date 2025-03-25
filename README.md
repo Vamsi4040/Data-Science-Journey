@@ -30,7 +30,7 @@ add about yourself
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </details>
-<br>
+
 ### Cloud & Tools
 
 <details markdown="1">
@@ -53,7 +53,7 @@ add about yourself
 ![MLflow](https://img.shields.io/badge/MLflow-05C4EE?style=for-the-badge)
 
 </details>
-<br>
+
 ### Data Analysis
 
 <details markdown="1">
@@ -77,7 +77,7 @@ add about yourself
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-FFCC00?style=for-the-badge&logo=seaborn&logoColor=black)
 
 </details>
-<br>
+
 ### AI/ML
 
 <details markdown="1">
@@ -90,14 +90,10 @@ add about yourself
 <details markdown="1">
 <summary><strong>Deep Learning</strong>: Neural networks, CNNs, RNNs, and more using TensorFlow/Keras and PyTorch</summary>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-E62B27?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge) ![CNNs](https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge) ![RNNs](https://img.shields.io/badge/RNNs-FF6F00?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-E62B27?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge) ![CNNs](https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge) ![RNNs](https://img.shields.io/badge/RNNs-FF6F00?style=for-the-badge)
 
 </details>
 
-
-</details>
 
 <details markdown="1">
 <summary><strong>NLP</strong>: Natural Language Processing techniques and models (e.g., BERT, DistilBERT)</summary>
