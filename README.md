@@ -30,143 +30,23 @@ add about yourself
 
 ## Skills111
 
-## Skills
+## Programming
 
-<details markdown="1">
-<summary><strong>Programming</strong></summary>
+**Python:** NumPy, Pandas, Scikit-learn, Jupyter Notebooks  
+**R:** Statistical analysis and visualization  
+**SQL:** Data querying and manipulation.
 
-### Programming Sub-Skills
+### Tools & Badges
 
-<details markdown="1">
-<summary>![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</summary>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-FF6600?style=for-the-badge&logo=jupyter&logoColor=white)  
 
-**Python**  
-- **Tools Used:** NumPy, Pandas, Scikit-learn, Jupyter Notebooks  
-- **Description:** Utilized for data analysis, scripting, and building machine learning models.
-  
-</details>
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<details markdown="1">
-<summary>![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)</summary>
-
-**R**  
-- **Tools Used:** RStudio, ggplot2, dplyr  
-- **Description:** Employed for statistical analysis and data visualization.
-  
-</details>
-
-<details markdown="1">
-<summary>![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)</summary>
-
-**SQL**  
-- **Tools Used:** MySQL, PostgreSQL, SQLite  
-- **Description:** Used for data querying, manipulation, and database management.
-  
-</details>
-
-</details>
-
-<details markdown="1">
-<summary><strong>Cloud & Tools</strong></summary>
-
-### Cloud & Tools Sub-Skills
-
-<details markdown="1">
-<summary>![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)</summary>
-
-**Azure (Azure ML)**  
-- **Tools Used:** Azure Machine Learning Studio, Azure Notebooks  
-- **Description:** Applied for scalable model training and deployment on the cloud.
-  
-</details>
-
-<details markdown="1">
-<summary>![MS Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)</summary>
-
-**MS Excel**  
-- **Tools Used:** Excel formulas, PivotTables, Power Query  
-- **Description:** Utilized for data manipulation, quick analytics, and visualization.
-  
-</details>
-
-<details markdown="1">
-<summary>![MLflow](https://img.shields.io/badge/MLflow-05C4EE?style=for-the-badge)</summary>
-
-**MLflow**  
-- **Tools Used:** MLflow Tracking, MLflow Models  
-- **Description:** Helps manage experiments and track model versions.
-  
-</details>
-
-</details>
-
-<details markdown="1">
-<summary><strong>Data Analysis</strong></summary>
-
-### Data Analysis Sub-Skills
-
-<details markdown="1">
-<summary>![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-FF9900?style=for-the-badge)</summary>
-
-**Predictive Analytics**  
-- **Tools Used:** Regression models, time series forecasting  
-- **Description:** Applied statistical techniques to forecast trends and predict outcomes.
-  
-</details>
-
-<details markdown="1">
-<summary>![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-5851DB?style=for-the-badge)</summary>
-
-**Statistical Analysis**  
-- **Tools Used:** Hypothesis testing, inferential statistics  
-- **Description:** Conducted rigorous analyses to validate assumptions and derive insights.
-  
-</details>
-
-<details markdown="1">
-<summary>![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F44336?style=for-the-badge)</summary>
-
-**Data Visualization**  
-- **Tools Used:** Matplotlib, Seaborn, Plotly, Tableau  
-- **Description:** Created impactful visualizations to communicate data insights effectively.
-  
-</details>
-
-</details>
-
-<details markdown="1">
-<summary><strong>AI/ML</strong></summary>
-
-### AI/ML Sub-Skills
-
-<details markdown="1">
-<summary>![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)</summary>
-
-**Machine Learning**  
-- **Tools Used:** Regression, classification, clustering, ensemble methods  
-- **Description:** Developed and fine-tuned ML models for various predictive tasks.
-  
-</details>
-
-<details markdown="1">
-<summary>![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00D8FF?style=for-the-badge&logo=pytorch&logoColor=white)</summary>
-
-**Deep Learning**  
-- **Tools Used:** CNNs, RNNs, Transformers using TensorFlow, Keras, PyTorch  
-- **Description:** Built deep neural networks to solve complex problems in vision, NLP, and beyond.
-  
-</details>
-
-<details markdown="1">
-<summary>![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge)</summary>
-
-**NLP**  
-- **Tools Used:** BERT, DistilBERT, spaCy, NLTK  
-- **Description:** Applied natural language processing techniques for text analysis and sentiment classification.
-  
-</details>
-
-</details>
 
 
 ---
