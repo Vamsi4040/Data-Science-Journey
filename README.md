@@ -30,7 +30,12 @@ add about yourself
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </details>
-![SQL: Data querying and manipulation](https://img.shields.io/badge/SQL%3A%20Data%20querying%20and%20manipulation-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<details markdown="1">
+<summary><strong>SQL</strong>: Data querying and manipulation</summary>
+
+![Data Querying](https://img.shields.io/badge/Data%20Querying-4479A1?style=for-the-badge) ![Data Manipulation](https://img.shields.io/badge/Data%20Manipulation-4479A1?style=for-the-badge)
+
+</details>
 
 ### Cloud & Tools
 
