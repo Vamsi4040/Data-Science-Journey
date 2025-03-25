@@ -66,9 +66,10 @@ add about yourself
 <details markdown="1">
 <summary><strong>Statistical Analysis</strong>: Hypothesis testing and inferential statistics</summary>
 
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-5851DB?style=for-the-badge)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-5851DB?style=for-the-badge) ![Inferential Statistics](https://img.shields.io/badge/Inferential%20Statistics-5851DB?style=for-the-badge)
 
 </details>
+
 
 <details markdown="1">
 <summary><strong>Data Visualization</strong>: Creating visual insights using Matplotlib, Seaborn</summary>
