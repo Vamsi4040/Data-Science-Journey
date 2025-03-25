@@ -36,7 +36,8 @@ add about yourself
 **R:** Statistical analysis and visualization  
 **SQL:** Data querying and manipulation.
 
-### Tools & Badges
+<details markdown="1">
+<summary><strong>Show Tools & Badges</strong></summary>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
@@ -46,6 +47,8 @@ add about yourself
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
 
 
 
