@@ -48,33 +48,78 @@ add about yourself
 </details>
 
 ---
-## Programming
+## Cloud & Tools
 
 <details markdown="1">
-<summary><strong>Python</strong>: NumPy, Pandas, Scikit-learn, Jupyter Notebooks</summary>
+<summary><strong>Azure (Azure ML)</strong>: Model training and deployment</summary>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-FF6600?style=for-the-badge&logo=jupyter&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </details>
 
 <details markdown="1">
-<summary><strong>R</strong>: Statistical analysis and visualization</summary>
+<summary><strong>MS Excel</strong>: Data manipulation and basic analytics</summary>
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </details>
 
 <details markdown="1">
-<summary><strong>SQL</strong>: Data querying and manipulation</summary>
+<summary><strong>MLflow</strong>: Experiment tracking and model management</summary>
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-05C4EE?style=for-the-badge)
 
 </details>
 
+---
+
+## Data Analysis
+
+<details markdown="1">
+<summary><strong>Predictive Analytics</strong>: Building forecasting models</summary>
+
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-FF9900?style=for-the-badge)
+
+</details>
+
+<details markdown="1">
+<summary><strong>Statistical Analysis</strong>: Hypothesis testing and inferential statistics</summary>
+
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-5851DB?style=for-the-badge)
+
+</details>
+
+<details markdown="1">
+<summary><strong>Data Visualization</strong>: Creating visual insights using Matplotlib, Seaborn, Plotly, etc.</summary>
+
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F44336?style=for-the-badge)
+
+</details>
+
+---
+
+## AI/ML
+
+<details markdown="1">
+<summary><strong>Machine Learning Algorithms</strong>: Regression, classification, clustering, ensemble methods</summary>
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+
+</details>
+
+<details markdown="1">
+<summary><strong>Deep Learning</strong>: Neural networks, CNNs, RNNs, and more using TensorFlow/Keras and PyTorch</summary>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-E62B27?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</details>
+
+<details markdown="1">
+<summary><strong>NLP</strong>: Natural Language Processing techniques and models (e.g., BERT, DistilBERT)</summary>
+
+![BERT](https://img.shields.io/badge/BERT-FF9900?style=for-the-badge) ![DistilBERT](https://img.shields.io/badge/DistilBERT-FF9900?style=for-the-badge)
+
+</details>
 
 
 ---
