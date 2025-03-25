@@ -2,7 +2,7 @@
 
 
 ## Summary
-add about yourself
+I am a data enthusiast with a strong foundation in Python, SQL, and machine learning, complemented by hands-on experience with tools like Pandas, Scikit-Learn, and visualization libraries. My portfolio highlights projects that have tackled complex challenges in domains such as Finance and Communications, where I turned raw data into actionable insights. I approach problem-solving through rigorous analysis and creative thinking, ensuring that every project benefits from meticulous data exploration and interpretation. Driven by a passion for continuous learning, I aim to leverage my skills to drive data-informed decision-making in innovative, forward-thinking organizations.
 
 ---
 
