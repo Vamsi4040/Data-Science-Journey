@@ -30,14 +30,12 @@ add about yourself
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </details>
-<details markdown="1">
-<summary><strong>SQL</strong>: Data querying and manipulation</summary>
-
-![Data Querying](https://img.shields.io/badge/Data%20Querying-4479A1?style=for-the-badge) ![Data Manipulation](https://img.shields.io/badge/Data%20Manipulation-4479A1?style=for-the-badge)
-
-</details>
 
 ### Cloud & Tools
+
+![Azure ML](https://img.shields.io/badge/Azure%20ML-Model%20Training%20%26%20Deployment-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
 
 <details markdown="1">
 <summary><strong>Azure (Azure ML)</strong>: Model training and deployment</summary>
