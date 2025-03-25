@@ -33,11 +33,6 @@ add about yourself
 
 ### Cloud & Tools
 
-![Azure ML](https://img.shields.io/badge/Azure%20ML-Model%20Training%20%26%20Deployment-0072C6?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Microsoft_Azure_Machine_Learning_Logo.svg/200px-Microsoft_Azure_Machine_Learning_Logo.svg.png&logoWidth=40)
-
-
----
-
 <details markdown="1">
 <summary><strong>Azure (Azure ML)</strong>: Model training and deployment</summary>
 
@@ -76,11 +71,12 @@ add about yourself
 </details>
 
 <details markdown="1">
-<summary><strong>Data Visualization</strong>: Creating visual insights using Matplotlib, Seaborn, Plotly, etc.</summary>
+<summary><strong>Data Visualization</strong>: Creating visual insights using Matplotlib, Seaborn</summary>
 
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F44336?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-FFCC00?style=for-the-badge&logo=seaborn&logoColor=black)
 
 </details>
+
 
 ### AI/ML
 
